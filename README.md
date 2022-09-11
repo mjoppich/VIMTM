@@ -16,9 +16,7 @@ VIMTM processing steps
 
     bash vimtm/runSyngrep.sh miRExplore/python/textmining/textmineDocument.py "./vimtm/results.litcovid/vim_targets/" ./vimtm/litcovid/ "" ./vimtm/syns/vimtm.syn
 
-
     cat vimtm/results.litcovid/vim_targets/*.index | cut -f 1 | cut -f 1 -d. | sort | uniq > vimtm/tm.pmc.pmid
-
     sort vimtm/covid_gold.pmc.pmid vimtm/tm.pmc.pmid vimtm/tm.pmc.pmid | uniq -u
 
     python3 miRExplore/python/vimtm/download_europepmc_xmls.py vimtm/tm.pmc.pmid vimtm/reltexts/
@@ -26,3 +24,16 @@ VIMTM processing steps
 
     python3 miRExplore/python/vimtm/download_europepmc_xmls.py vimtm/covid_gold.pmc.pmid vimtm/covidtexts/
     python3 miRExplore/python/vimtm/europepmc_supplement_discovery.py vimtm/covidtexts/ vimtm/covidsents/
+
+
+    cd vimtm/blastdb
+
+    /mnt/raidtmp/joppich/pubmed_pmc/pmc/ncbi-blast-2.13.0+-src/c++/ReleaseMT/bin/update_blastdb.pl --decompress ref_viruses_rep_genomes
+
+
+    export PATH=/mnt/raidtmp/joppich/pubmed_pmc/pmc/ncbi-blast-2.13.0+-src/c++/ReleaseMT/bin/:$PATH
+
+    /mnt/raidtmp/joppich/pubmed_pmc/pmc/ncbi-blast-2.13.0+-src/c++/ReleaseMT/bin/update_blastdb.pl --decompress human_genome
+    /mnt/raidtmp/joppich/pubmed_pmc/pmc/ncbi-blast-2.13.0+-src/c++/ReleaseMT/bin/update_blastdb.pl --decompress Betacoronavirus
+
+    
