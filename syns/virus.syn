@@ -1,346 +1,346 @@
-NCIT_C112242:NCIT_C112242|Coxsackie A Virus|Enterovirus A|Coxsackievirus A|Human Enterovirus A|COXSACKIE A VIRUS|Human Coxsackievirus A|Enterovirus EV-A|Coxsackie Virus A
-NCIT_C117716:NCIT_C117716|Primate Lentivirus Group|Primate Lentivirus Serogroup
-NCIT_C112362:NCIT_C112362|Norovirus|NoV|Norwalk-like virus|NOROVIRUS
-NCIT_C14319:NCIT_C14319|Human Papillomavirus-6|HPV-6|Human Papillomavirus Type 6
-NCIT_C112266:NCIT_C112266|Dengue Virus 1|DENGUE VIRUS 1|DENV-1|DEN-1|Dengue Virus Type 1
-NCIT_C113201:NCIT_C113201|Flaviviridae
-NCIT_C14362:NCIT_C14362|Friend Murine Leukemia Virus|Friend Leukemia Virus, Conventional|Friend Leukemia Virus|CFV
-NCIT_C14347:NCIT_C14347|Deltaretrovirus|DELTARETROVIRUS|BLV-HTLV Retrovirus
-NCIT_C14301:NCIT_C14301|Bacteriophage P1|Enterobacteria Phage P1
-NCIT_C169076:NCIT_C169076|SARS Coronavirus 2|SARS-2|HCoV-19|SARS-CoV-2|SARS2|COVID-19 Virus|Human Coronavirus 2019|nCoV|Novel Coronavirus|SEVERE ACUTE RESPIRATORY SYNDROME CORONAVIRUS 2|2019-nCoV|2019 Novel Coronavirus|Severe Acute Respiratory Syndrome Coronavirus 2
-NCIT_C128305:NCIT_C128305|HERV-K|Human Endogenous Retroviral Sequence K|Endogenous Retrovirus Group K|Endogenous Retroviral Sequence K|Human Endogenous Retrovirus Group K|HERV-K Provirus|HERVK
-NCIT_C77199:NCIT_C77199|Rotavirus|ROTAVIRUS
-NCIT_C14199:NCIT_C14199|DNA Tumor Virus
-NCIT_C29902:NCIT_C29902|Nodule-Inducing Virus|NIV
-NCIT_C93324:NCIT_C93324|Hepatitis D Virus|HDV|hepatitis D virus|Delta Agent|Hepatitis Delta Virus|hepatitis delta virus|HEPATITIS D VIRUS
-NCIT_C184366:NCIT_C184366|SARS-CoV-2 Variant of Concern|VOC|Variants of Concern|Variant of Concern
-NCIT_C14311:NCIT_C14311|Human Herpesvirus 1|Herpes Simplex Virus 1|HSV1|HHV-1|HUMAN HERPESVIRUS 1|Herpes Simplex Virus Type 1|HHV1|HSV-1
-NCIT_C94190:NCIT_C94190|Enveloped Virus|enveloped virus
-NCIT_C14342:NCIT_C14342|PVC-211 MuLV|Friend murine leukemia virus (ISOLATE PVC-211)
-NCIT_C166071:NCIT_C166071|Norovirus Genogroup II.4|Norovirus GII.4|NOROVIRUS GENOGROUP II.4|Norovirus Genogroup GII.4
-NCIT_C180913:NCIT_C180913|SARS Coronavirus 2 B.1.621|SARS-CoV-2 B.1.621|SARS2 B.1.621|SARS Coronavirus 2 Variant Lineage B.1.621|B.1.621
-NCIT_C14251:NCIT_C14251|Papillomavirus|Papilloma Virus|Virus-Papilloma
-NCIT_C14181:NCIT_C14181|Animal Virus|Viruses, Animal
-NCIT_C48818:NCIT_C48818|Adeno-Associated Virus Type 2|Adeno-Associated Virus-2|AAV2
-NCIT_C103004:NCIT_C103004|Human Papillomavirus-58|HPV-58|Human Papillomavirus Type 58|HPV58
-NCIT_C14221:NCIT_C14221|Human Immunodeficiency Virus 2|LAV-2|Human Immunodeficiency Virus, Type 2|HUMAN IMMUNODEFICIENCY VIRUS 2|HIV-2
-NCIT_C112229:NCIT_C112229|Aphthovirus|APHTHOVIRUS
-NCIT_C14219:NCIT_C14219|Human Immunodeficiency Virus|human immunodeficiency virus|HIV|Virus-HIV
-NCIT_C96524:NCIT_C96524|Orthopoxvirus|ORTHOPOXVIRUS
-NCIT_C125638:NCIT_C125638|Chikungunya Virus|CHIKUNGUNYA VIRUS
-NCIT_C14261:NCIT_C14261|Poxvirus|Poxviridae
-NCIT_C112313:NCIT_C112313|Human Herpesvirus 2|HUMAN HERPESVIRUS 2|Herpes Simplex Virus 2|HHV-2|Herpes Simplex Virus Type 2|HSV-2
-NCIT_C14290:NCIT_C14290|Lentivirus|LENTIVIRUS|Virus-Lenti|Lentivirinae
-NCIT_C14190:NCIT_C14190|Bovine Papillomavirus|BPV
-NCIT_C89772:NCIT_C89772|Parvovirus B19|B19 Virus|Erythrovirus B19|HUMAN PARVOVIRUS B19|Human Parvovirus B19|Human Erythrovirus B19
-NCIT_C14274:NCIT_C14274|Simian Immunodeficiency Virus|SIV
-NCIT_C96527:NCIT_C96527|Variola Virus|Smallpox Virus|Variola Virus VAR|VARIOLA VIRUS
-NCIT_C103005:NCIT_C103005|Human Papillomavirus-59|HPV-59|HPV59|Human Papillomavirus Type 59
-NCIT_C14371:NCIT_C14371|Oncornavirus|RNA Tumor Virus
-NCIT_C14247:NCIT_C14247|Avian Myeloblastosis Virus
-NCIT_C99178:NCIT_C99178|Human Papillomavirus-11|HPV-11|Human Papillomavirus Type 11
-NCIT_C90038:NCIT_C90038|Saimiriine Herpesvirus 2|Saimirine herpesvirus 2|Herpesvirus saimiri 2|Squirrel Monkey Herpesvirus
-NCIT_C14277:NCIT_C14277|Simian T-Lymphotropic Virus Type I|Simian T-Lymphotropic Virus I|STLV
-NCIT_C102998:NCIT_C102998|Human Papillomavirus-39|Human Papillomavirus Type 39|HPV-39|HPV39
-NCIT_C14304:NCIT_C14304|Caliciviridae|CALICIVIRIDAE
-NCIT_C180977:NCIT_C180977|SARS Coronavirus 2 AY.1|SARS-CoV-2 B.1617.2.1|AY.1|SARS2 B.1.617.2.1|SARS-CoV-2 AY.1|SARS Coronavirus 2 Variant Lineage AY.1|Delta|SARS2 AY.1|SARS Coronavirus 2 B.1.617.2.1|SARS Coronavirus 2 Variant Lineage B.1.617.2.1|B.1.617.2.1
-NCIT_C14319:NCIT_C14319|Human Papillomavirus-6|HPV-6|Human Papillomavirus Type 6
-NCIT_C112030:NCIT_C112030|Alphavirus|ALPHAVIRUS|Arboviruses Group A
-NCIT_C89820:NCIT_C89820|BK Virus|BK POLYOMAVIRUS|BK Polyomavirus|Papovavirus BKV|Polyomavirus BK|Polyomavirus Type BK|BKV
-NCIT_C14368:NCIT_C14368|Lytic Virus
-NCIT_C103007:NCIT_C103007|Human Papillomavirus-68|HPV-68|HPV68|Human Papillomavirus Type 68
-NCIT_C184696:NCIT_C184696|Human Respiratory Syncytial Virus Type A|RESPIRATORY SYNCYTIAL VIRUS TYPE A|RSV Type A|Respiratory Syncytial Virus Subsp. A|RSV-A
-NCIT_C14276:NCIT_C14276|Spleen Focus-Forming Virus|Friend Spleen Focus-Forming Virus
-NCIT_C14302:NCIT_C14302|Bacteriophage T4|Enterobacteria Phage T4|Coliphage T4
-NCIT_C14223:NCIT_C14223|HTLV-1|Adult T-cell Leukemia Lymphoma ATLL|Adult T-cell Lymphoma Virus Type 1|Virus-HTLV-I|HTLV-I|human T-cell leukemia virus type 1|Human T-Lymphotropic Virus 1|HUMAN T-LYMPHOTROPIC VIRUS 1|Human T-Lymphotropic Virus, Type I|human T-cell lymphotropic virus type 1
-NCIT_C14256:NCIT_C14256|Picornavirus|Picornaviridae
-NCIT_C112432:NCIT_C112432|SARS Coronavirus|SARS CORONAVIRUS|SARS-CoV-1|SARS|HCoV-SARS|Severe Acute Respiratory Syndrome Coronavirus|SARS-CoV|SEVERE ACUTE RESPIRATORY SYNDROME-RELATED CORONAVIRUS
-NCIT_C29902:NCIT_C29902|Nodule-Inducing Virus|NIV
-NCIT_C14214:NCIT_C14214|Hepadnavirus
-NCIT_C14203:NCIT_C14203|Enterovirus|ENTEROVIRUS
-NCIT_C14205:NCIT_C14205|Equine Infectious Anemia Virus|EIAV
-NCIT_C125640:NCIT_C125640|Human Metapneumovirus|HMPV|HUMAN METAPNEUMOVIRUS
-NCIT_C127691:NCIT_C127691|Bocaparvovirus|BOCAPARVOVIRUS|Bocavirus
-NCIT_C77198:NCIT_C77198|Rubella Virus|RUBELLA VIRUS|German Measles Virus|Rubivirus Rubella Virus
-NCIT_C117722:NCIT_C117722|Avulavirus|Avian Rubulavirus
-NCIT_C77200:NCIT_C77200|Rhinovirus
-NCIT_C14332:NCIT_C14332|Avian Leukemia Sarcoma Virus|ALSV-A
-NCIT_C14310:NCIT_C14310|Paramyxovirus|RESPIROVIRUS|paramyxovirus
-NCIT_C112267:NCIT_C112267|Dengue Virus 2|Dengue Virus Type 2|DEN-2|DENV-2|DENGUE VIRUS 2
-NCIT_C14249:NCIT_C14249|Tumor Virus|Tumor Viruses|Oncogenic Virus
-NCIT_C112366:NCIT_C112366|Orthobunyavirus|Bunyavirus|ORTHOBUNYAVIRUS
+NCIT_C14325:NCIT_C14325|Hepatitis A Virus|HHVA|HEPATITIS A VIRUS|HAV|Human Hepatitis A Virus|hepatitis A virus
+NCIT_C84344:NCIT_C84344|Xenotropic Murine Leukemia Virus-related Virus|XMRV
 NCIT_C181466:NCIT_C181466|Human Poliovirus Type 3|Human poliovirus type 3|ENC Type 3|HUMAN POLIOVIRUS 3
-NCIT_C125639:NCIT_C125639|Enterovirus D68|Enterovirus 68|Human Enterovirus 68|Human Enterovirus D68|Human Enterovirus EV68|Enterovirus D68 (EV-D68)|EV-D68
-NCIT_C14242:NCIT_C14242|Moloney Sarcoma Virus|Moloney Murine Sarcoma Virus|MMSV|MoMSV|MoMuSV
-NCIT_C112407:NCIT_C112407|Rhinovirus A|Human Rhinovirus A|RHINOVIRUS A
-NCIT_C14307:NCIT_C14307|Paramyxovirinae
-NCIT_C184695:NCIT_C184695|Human Bocavirus|HUMAN BOCAVIRUS
-NCIT_C112316:NCIT_C112316|Human Parainfluenza Virus 2|HUMAN PARAINFLUENZA VIRUS 2|HPIV-2|Human Parainfluenza Virus Type 2|Human Rubulavirus 2|Human orthorubulavirus 2
-NCIT_C14220:NCIT_C14220|Human Immunodeficiency Virus 1|Human Immunodeficiency Virus, Type 1|HUMAN IMMUNODEFICIENCY VIRUS 1|LAV-1|HIV-1
-NCIT_C14268:NCIT_C14268|Retroviridae|Retrovirus|Virus-Retrovirus|retrovirus|Retroviruses
-NCIT_C103000:NCIT_C103000|Human Papillomavirus-51|HPV-51|HPV51|Human Papillomavirus Type 51
-NCIT_C102998:NCIT_C102998|Human Papillomavirus-39|Human Papillomavirus Type 39|HPV-39|HPV39
-NCIT_C103001:NCIT_C103001|Human Papillomavirus-52|HPV-52|HPV52|Human Papillomavirus Type 52
-NCIT_C14325:NCIT_C14325|Hepatitis A Virus|HEPATITIS A VIRUS|HHVA|HAV|hepatitis A virus|Human Hepatitis A Virus
-NCIT_C122313:NCIT_C122313|Gammacoronavirus|Coronavirus group 3|GAMMACORONAVIRUS
-NCIT_C112408:NCIT_C112408|Rhinovirus B|RHINOVIRUS B|Human Rhinovirus B
-NCIT_C14235:NCIT_C14235|Mouse Mammary Tumor Virus|MMTV
-NCIT_C129405:NCIT_C129405|Tacaribe Complex Virus|Tacaribe Complex|New World Arenavirus Complex|Tacaribe Complex Arenavirus|Tacaribe Serocomplex Virus|TACV Complex|TCRV
-NCIT_C14288:NCIT_C14288|Feline Immunodeficiency Virus|FIV
-NCIT_C14196:NCIT_C14196|Cytomegalovirus|CYTOMEGALOVIRUS|CMV|CMV, CYTOMEGALOVIRUS|HUMAN HERPESVIRUS 5|Cytomegalovirus (CMV) Infection|cytomegalovirus
-NCIT_C112231:NCIT_C112231|Astroviridae|ASTROVIRIDAE|Astrovirus
-NCIT_C178021:NCIT_C178021|Human Coronavirus NL63|HCoV-NL63|Coronavirus NL63|HUMAN CORONAVIRUS NL63
-NCIT_C14279:NCIT_C14279|SV40|Simian Virus 40|simian virus 40|Simian Vacuolating Virus 40|Virus-SV40
-NCIT_C119319:NCIT_C119319|Alphacoronavirus|Coronavirus Group 1|ALPHACORONAVIRUS
-NCIT_C14377:NCIT_C14377|Human Papillomavirus Type 18|HPV-18|HPV Genotype 18|Human Papillomavirus Genotype 18|Human Papillomavirus-18
-NCIT_C184364:NCIT_C184364|SARS-CoV-2 Variant Being Monitored|Variant Being Monitored|VUM|Variants Under Monitoring|Variants Being Monitored|VBM
-NCIT_C117721:NCIT_C117721|Respirovirus
-NCIT_C14276:NCIT_C14276|Spleen Focus-Forming Virus|Friend Spleen Focus-Forming Virus
-NCIT_C95945:NCIT_C95945|Viroid
-NCIT_C117711:NCIT_C117711|Bovine Immunodeficiency Virus|BIV
-NCIT_C112357:NCIT_C112357|Molluscum Contagiosum Virus|MOLLUSCUM CONTAGIOSUM VIRUS|MCV|MOCV
-NCIT_C14226:NCIT_C14226|Human Papillomavirus|HPV|human papillomavirus|Human Papilloma Virus|HUMAN PAPILLOMAVIRUS
-NCIT_C26431:NCIT_C26431|Coronavirus
-NCIT_C112243:NCIT_C112243|Coxsackie B Virus|Enterovirus B|COXSACKIE B VIRUS|Enterovirus EV-B|Human Enterovirus B|Coxsackie Virus B
-NCIT_C112240:NCIT_C112240|Colorado Tick Fever Virus|COLORADO TICK FEVER VIRUS|CTFV
-NCIT_C125641:NCIT_C125641|Human Parainfluenza Virus|HPIV|HUMAN PARAINFLUENZA VIRUS
-NCIT_C14288:NCIT_C14288|Feline Immunodeficiency Virus|FIV
-NCIT_C14186:NCIT_C14186|Alpharetrovirus|Retroviruses, Type C, Avian|Avian Retrovirus|Type C Avian Retrovirus
-NCIT_C14300:NCIT_C14300|Rous Sarcoma Virus|RSV
-NCIT_C124253:NCIT_C124253|Woodchuck Hepatitis Virus|WHV
-NCIT_C14293:NCIT_C14293|Spumavirus|Foamy Retrovirus|Foamy Virus
-NCIT_C112415:NCIT_C112415|Sapporo Virus|SAPPORO VIRUS|Human Calicivirus SLV|Human Calicivirus Sapporo-like Virus
-NCIT_C184367:NCIT_C184367|SARS-CoV-2 Variant of High Consequence|Variant of High Consequence|VOHC
-NCIT_C184365:NCIT_C184365|SARS-CoV-2 Variant of Interest|VOI|Variant of Interest|Variants of Interest
-NCIT_C179598:NCIT_C179598|SARS Coronavirus 2 P.2|SARS-CoV-2 B.1.128.2|SARS Coronavirus 2 Variant Lineage P.2|Zeta|P.2|SARS2 P.2|P.2 Brazil April 2020|B.1.128.2|B.1.1.28.2|SARS-CoV-2 P.2
-NCIT_C80445:NCIT_C80445|Influenza A (H1N1) Virus|Swine-origin influenza A (H1N1) virus|Swine Influenza A (H1N1) Virus|Influenza A Virus H1N1 Subtype|INFLUENZA A VIRUS SUBTYPE H1N1
-NCIT_C14254:NCIT_C14254|Human Parainfluenza Virus 1|Human Respirovirus 1|HPIV-1|Hemadsorption Type 2 Virus|Human Parainfluenza Virus Type 1|HUMAN PARAINFLUENZA VIRUS 1|HA2
-NCIT_C180325:NCIT_C180325|SARS Coronavirus 2 P.3|P.3|SARS2 P.3|SARS Coronavirus 2 Variant Lineage P.3|Theta|SARS-CoV-2 P.3
-NCIT_C156054:NCIT_C156054|Human Papillomavirus-63|Human Papillomavirus 63|HPV63|Human Papilloma Virus 63|HPV-63|Human Papilloma Virus-63
-NCIT_C14188:NCIT_C14188|Bacteriophage|Phage|Viruses, Bacterial
-NCIT_C14305:NCIT_C14305|Gammaretrovirus|Type C Mammalian Retrovirus|Retroviruses, Type C, Mammalian
-NCIT_C14317:NCIT_C14317|Human Virus|Viruses, Human
-NCIT_C77197:NCIT_C77197|Togaviridae
-NCIT_C178022:NCIT_C178022|Human Coronavirus OC43|HUMAN CORONAVIRUS OC43|HCoV-OC43
-NCIT_C103006:NCIT_C103006|Human Papillomavirus-66|HPV-66|HPV66|Human Papillomavirus Type 66
-NCIT_C14244:NCIT_C14244|Mouse Leukemia Virus|MURINE LEUKEMIA VIRUS|MuLV|Murine Leukemia Virus MuLV|Murine Leukemia Virus MLV|Murine Leukemia Virus
-NCIT_C14274:NCIT_C14274|Simian Immunodeficiency Virus|SIV
-NCIT_C179580:NCIT_C179580|SARS Coronavirus 2 B.1.526|B.1.526 US New York November 2020|SARS2 B.1.526|SARS-CoV-2 B.1.526|SARS Coronavirus 2 Variant Lineage B.1.526|Iota|B.1.526
-NCIT_C112036:NCIT_C112036|Dengue Virus|DENGUE VIRUS
-NCIT_C14259:NCIT_C14259|Poliovirus|Human enterovirus C|Polio Virus|Enterovirus C|POLIOVIRUS|ENC
-NCIT_C112426:NCIT_C112426|Varicellovirus|Varicellavirus|VARICELLOVIRUS
-NCIT_C14377:NCIT_C14377|Human Papillomavirus Type 18|HPV-18|HPV Genotype 18|Human Papillomavirus Genotype 18|Human Papillomavirus-18
-NCIT_C112316:NCIT_C112316|Human Parainfluenza Virus 2|HUMAN PARAINFLUENZA VIRUS 2|HPIV-2|Human Parainfluenza Virus Type 2|Human Rubulavirus 2|Human orthorubulavirus 2
-NCIT_C128553:NCIT_C128553|Zika Virus|ZIKA VIRUS|ZIKV
-NCIT_C14237:NCIT_C14237|Measles morbillivirus|Measles Virus|Rougeole Virus|MEASLES MORBILLIVIRUS|MEASLES VIRUS|measles virus|Rubeola Virus|SSPEV|Subacute Sclerosing Panencephalitis Virus
-NCIT_C123490:NCIT_C123490|Influenza A (H5N1) Virus|Highly Pathogenic Asian Avian Influenza A (H5N1) Virus|Influenza A Virus H5N1 Subtype|INFLUENZA A VIRUS SUBTYPE H5N1|HPAI H5N1 Virus
-NCIT_C14236:NCIT_C14236|Mason-Pfizer Monkey Virus|MPMV
-NCIT_C29889:NCIT_C29889|Regressing Friend Leukemia Virus|Friend Leukemia Virus, Regressing|Regressing FV|CFV
-NCIT_C112401:NCIT_C112401|Pseudocowpox Virus|Paravaccinia virus|Pseudocowpoxvirus|PSEUDOCOWPOX VIRUS
-NCIT_C14375:NCIT_C14375|Escape Mutant
-NCIT_C102904:NCIT_C102904|Human Papillomavirus-31|HPV-31|Human Papillomavirus Type 31|HPV31
-NCIT_C14344:NCIT_C14344|Sloan Kettering Virus|SKVS|Avian erythroblastosis virus (strain Sloan-Kettering)
-NCIT_C102997:NCIT_C102997|Human Papillomavirus-35|HPV-35|HPV35|Human Papillomavirus Type 35
-NCIT_C14241:NCIT_C14241|Moloney Leukemia Virus|MoMuLV|Moloney Murine Leukemia Virus|MURINE LEUKEMIA VIRUS SUBTYPE MOLONEY|Moloney Murine Leukemia Virus M-MuLV|Moloney Virus|Rat Moloney Murine Leukemia Virus MoMuLV|M-MuLV|MLV
-NCIT_C113204:NCIT_C113204|Pegivirus
-NCIT_C113202:NCIT_C113202|Hepacivirus
-NCIT_C184686:NCIT_C184686|Norovirus Genogroup I|Human calicivirus genogroup 1|Norovirus GI|NOROVIRUS GENOGROUP I
-NCIT_C14224:NCIT_C14224|HTLV-2|HTLV-II|Human T-Lymphotropic Virus, Type II|Human T-Lymphotropic Virus 2|HUMAN T-LYMPHOTROPIC VIRUS 2|Virus-HTLV-II
-NCIT_C112317:NCIT_C112317|Human Parainfluenza Virus 3|HPIV-3|Human Parainfluenza Virus Type 3|HUMAN PARAINFLUENZA VIRUS 3|Human Respirovirus 3
-NCIT_C134498:NCIT_C134498|Powassan Virus|POW
-NCIT_C112359:NCIT_C112359|Nipah Virus|NIPAH VIRUS|NiV
-NCIT_C102999:NCIT_C102999|Human Papillomavirus-45|HPV-45|Human Papillomavirus Type 45|HPV45
-NCIT_C112314:NCIT_C112314|Human Herpesvirus 5|HUMAN HERPESVIRUS 5|HHV-5|HCMV|Human Cytomegalovirus
-NCIT_C14347:NCIT_C14347|Deltaretrovirus|DELTARETROVIRUS|BLV-HTLV Retrovirus
-NCIT_C178019:NCIT_C178019|Human Coronavirus 229E|Coronavirus 229E|HCoV-229E|HUMAN CORONAVIRUS 229E
-NCIT_C102996:NCIT_C102996|Human Papillomavirus-33|HPV33|Human Papillomavirus Type 33|HPV-33
-NCIT_C14216:NCIT_C14216|Hepatitis Virus
 NCIT_C14205:NCIT_C14205|Equine Infectious Anemia Virus|EIAV
-NCIT_C14295:NCIT_C14295|Hepatitis E Virus|HEPATITIS E VIRUS|HEV|hepatitis E virus
-NCIT_C117712:NCIT_C117712|Bovine Lentivirus Group|Bovine Lentivirus Serogroup
-NCIT_C29901:NCIT_C29901|Moloney Murine Leukemia Virus TB|Moloney Murine Leukemia Virus, TB Strain|MoMuLV-TB
-NCIT_C97156:NCIT_C97156|Yellow Fever Virus|Flavivirus febricis|YFV|YELLOW FEVER VIRUS|Flavivirus Yellow Fever Virus
-NCIT_C113207:NCIT_C113207|Betacoronavirus|BETACORONAVIRUS|Beta-CoV|Coronavirus Group 2
-NCIT_C185726:NCIT_C185726|SARS Coronavirus 2 BA.1.1|Omicron|SARS-CoV-2 BA.1.1|BA.1.1|B.1.1.529.1.1|SARS2 BA.1.1|SARS Coronavirus 2 Variant Lineage BA.1.1
-NCIT_C117713:NCIT_C117713|Equine Lentivirus Group|Equine Lentivirus Serogroup
-NCIT_C179583:NCIT_C179583|SARS Coronavirus 2 B.1.617|SARS2 B.1.617|B.1.617|SARS Coronavirus 2 Variant Lineage B.1.617|B.1.617 India February 2021|SARS-CoV-2 B.1.617
-NCIT_C179579:NCIT_C179579|SARS Coronavirus 2 B.1.525|SARS Coronavirus 2 Variant Lineage B.1.525|SARS2 B.1.525|B.1.525 UK/Nigeria December 2020|B.1.525|SARS-CoV-2 B.1.525|Eta
-NCIT_C14217:NCIT_C14217|Herpesvirus|Herpes Virus|Herpesviridae|herpesvirus|Virus-Herpes
-NCIT_C14315:NCIT_C14315|Canarypox Virus|Canarypox
-NCIT_C97346:NCIT_C97346|Bacteriophage Phi X 174|Phi X174|Phi X 174|PhiX174|Enterobacteria Phage PhiX174
-NCIT_C28578:NCIT_C28578|Harvey Murine Sarcoma Virus|Harvey Sarcoma Virus
-NCIT_C14254:NCIT_C14254|Human Parainfluenza Virus 1|Human Respirovirus 1|HPIV-1|Hemadsorption Type 2 Virus|Human Parainfluenza Virus Type 1|HUMAN PARAINFLUENZA VIRUS 1|HA2
-NCIT_C178659:NCIT_C178659|HERV-E|ERVE-4|hERV-E|Human Endogenous Retrovirus Group E
-NCIT_C29917:NCIT_C29917|Gross Leukemia Virus|Gross Virus|GLV|Gross passage A murine leukemia virus
-NCIT_C14204:NCIT_C14204|Epstein-Barr Virus|Lymphocryptovirus|Virus-Epstein-Barr|HUMAN HERPESVIRUS 4|Epstein Barr Virus|HHV-4|EBV|Epstein-Barr virus|Human Herpesvirus 4
-NCIT_C103001:NCIT_C103001|Human Papillomavirus-52|HPV-52|HPV52|Human Papillomavirus Type 52
-NCIT_C14325:NCIT_C14325|Hepatitis A Virus|HEPATITIS A VIRUS|HHVA|HAV|hepatitis A virus|Human Hepatitis A Virus
-NCIT_C14328:NCIT_C14328|GB virus C|GBV-C/G|GBV-C|HGV|HEPATITIS G VIRUS|GB virus C/HGV|HGV-1|hepatitis G virus|Hepatitis GB virus C|GB Virus C/ Hepatitis G Virus|Hepatitis G Virus|GBV-HGV|Hepatitis GB virus C/G
-NCIT_C179576:NCIT_C179576|SARS Coronavirus 2 B.1.427|SARS2 B.1.427|B.1.427|B.1.427 US California|SARS Coronavirus 2 Variant Lineage B.1.427|SARS-CoV-2 B.1.427|Epsilon
-NCIT_C14255:NCIT_C14255|Paramyxoviridae
-NCIT_C103003:NCIT_C103003|Human Papillomavirus-56|HPV56|Human Papillomavirus Type 56|HPV-56
-NCIT_C14267:NCIT_C14267|Human Respiratory Syncytial Virus|RSV|Human RSV|hRSV|Respiratory Syncytial Virus|respiratory syncytial virus|HUMAN RESPIRATORY SYNCYTIAL VIRUS
-NCIT_C71091:NCIT_C71091|Varicella Zoster Virus|HHV3|HHV-3|Human Herpesvirus 3|HUMAN HERPESVIRUS 3|VZV|Herpes Zoster Virus|Varicella-Zoster Virus 1
-NCIT_C117714:NCIT_C117714|Feline Lentivirus Group|Feline Lentivirus Serogroup
-NCIT_C117711:NCIT_C117711|Bovine Immunodeficiency Virus|BIV
-NCIT_C84344:NCIT_C84344|Xenotropic Murine Leukemia Virus-related Virus|XMRV
-NCIT_C14306:NCIT_C14306|Arenavirus|ARENAVIRUS
-NCIT_C14327:NCIT_C14327|Human Herpesvirus 8|Kaposi Sarcoma-Associated Herpes Virus|HHV-8|HUMAN HERPESVIRUS 8|KSHV|Kaposi's sarcoma-associated herpesvirus|Virus-HHV8|HHV8|Kaposi sarcoma-associated herpesvirus|human herpesvirus 8|Kaposi Sarcoma Herpes Virus
-NCIT_C179573:NCIT_C179573|SARS Coronavirus 2 B.1.1.7|Alpha|SARS2 B.1.1.7|SARS-CoV-2 B.1.1.7|B.1.1.7 UK|SARS Coronavirus 2 Variant Lineage B.1.1.7|B.1.1.7
-NCIT_C117715:NCIT_C117715|Ovine/Caprine Lentivirus Group|Ovine/Caprine Lentivirus Serogroup
-NCIT_C121658:NCIT_C121658|H5N2 Avian Influenza Virus|Highly Pathogenic H5N2 Avian Influenza Virus|Highly Pathogenic Avian Influenza Virus|H5N2 Influenza Virus
-NCIT_C14186:NCIT_C14186|Alpharetrovirus|Retroviruses, Type C, Avian|Avian Retrovirus|Type C Avian Retrovirus
-NCIT_C102996:NCIT_C102996|Human Papillomavirus-33|HPV33|Human Papillomavirus Type 33|HPV-33
-NCIT_C53453:NCIT_C53453|Orthomyxoviridae
-NCIT_C14215:NCIT_C14215|Hepatitis B Virus|Virus-Hepatitis B|hepatitis B virus|HBV|HEPATITIS B VIRUS
-NCIT_C124253:NCIT_C124253|Woodchuck Hepatitis Virus|WHV
-NCIT_C112358:NCIT_C112358|Nairovirus|NAIROVIRUS
-NCIT_C14229:NCIT_C14229|JC Virus|John Cunningham Virus|JCV|Polyomavirus hominis 2|Human polyomavirus (type JC)|JC VIRUS|polyomavirus JC|JC Polyomavirus
-NCIT_C179599:NCIT_C179599|SARS Coronavirus 2 P.1|B.1.1.28.1|B.1.128.1|P.1 Japan/Brazil|P.1|SARS Coronavirus 2 Variant Lineage P.1|SARS-CoV-2 B.1.128.1|SARS2 P.1|Gamma|SARS-CoV-2 P.1
-NCIT_C112317:NCIT_C112317|Human Parainfluenza Virus 3|HPIV-3|Human Parainfluenza Virus Type 3|HUMAN PARAINFLUENZA VIRUS 3|Human Respirovirus 3
-NCIT_C14293:NCIT_C14293|Spumavirus|Foamy Retrovirus|Foamy Virus
-NCIT_C29916:NCIT_C29916|Graffi Murine Leukemia Virus|Graffi MuLV
-NCIT_C117716:NCIT_C117716|Primate Lentivirus Group|Primate Lentivirus Serogroup
-NCIT_C14223:NCIT_C14223|HTLV-1|Adult T-cell Leukemia Lymphoma ATLL|Adult T-cell Lymphoma Virus Type 1|Virus-HTLV-I|HTLV-I|human T-cell leukemia virus type 1|Human T-Lymphotropic Virus 1|HUMAN T-LYMPHOTROPIC VIRUS 1|Human T-Lymphotropic Virus, Type I|human T-cell lymphotropic virus type 1
-NCIT_C112365:NCIT_C112365|Orbivirus|ORBIVIRUS
-NCIT_C112367:NCIT_C112367|Parapoxvirus|PARAPOXVIRUS
-NCIT_C179585:NCIT_C179585|SARS Coronavirus 2 B.1.617.1|SARS Coronavirus 2 Variant Lineage B.1.617.1|B.1.617.1 India December 2020|B.1.617.1|SARS-CoV-2 B.1.617.1|Kappa|SARS2 B.1.617.1
-NCIT_C171516:NCIT_C171516|Middle East Respiratory Syndrome Coronavirus|MIDDLE EAST RESPIRATORY SYNDROME CORONAVIRUS|Middle East Respiratory Syndrome-related Coronavirus|MERS Virus|MERS-CoV
-NCIT_C75532:NCIT_C75532|Parainfluenza Virus
-NCIT_C179600:NCIT_C179600|SARS Coronavirus 2 B.1.128|B.1.128 Brazil|SARS2 B.1.128|B.1.128|SARS-CoV-2 B.1.128|B.1.1.28|SARS Coronavirus 2 Variant Lineage B.1.128
-NCIT_C14416:NCIT_C14416|Abelson Murine Leukemia Virus|A-MuLV
-NCIT_C112414:NCIT_C112414|Rubivirus|RUBIVIRUS
-NCIT_C29914:NCIT_C29914|R7 Virus|Recombinant 7|MoMuSV 124 variant R7
-NCIT_C14257:NCIT_C14257|Plant Virus|Viruses, Plant
-NCIT_C14213:NCIT_C14213|Hantavirus|HANTAVIRUS
-NCIT_C112272:NCIT_C112272|Echovirus|ECHOVIRUS
-NCIT_C156055:NCIT_C156055|Human Papillomavirus-70|Human Papilloma Virus-70|Human Papillomavirus 70|HPV-70|HPV70|Human Papilloma Virus 70
-NCIT_C103002:NCIT_C103002|Human Papillomavirus-53|Human Papillomavirus Type 53|Alphapapillomavirus 6|HPV-53|HPV53
-NCIT_C14416:NCIT_C14416|Abelson Murine Leukemia Virus|A-MuLV
-NCIT_C44391:NCIT_C44391|HPV-High Risk|High-Risk Subtype (16, 18, 31, 33, 35, etc.)|High Risk HPV|Human Papillomaviruses, High Risk|hrHPV|HR-HPV
-NCIT_C122279:NCIT_C122279|Deltacoronavirus|DELTACORONAVIRUS|Coronavirus Group 3
-NCIT_C14342:NCIT_C14342|PVC-211 MuLV|Friend murine leukemia virus (ISOLATE PVC-211)
-NCIT_C112290:NCIT_C112290|Henipavirus|HENIPAVIRUS
-NCIT_C112029:NCIT_C112029|Sapovirus|SAPOVIRUS
-NCIT_C186198:NCIT_C186198|Parechovirus|PARECHOVIRUS
-NCIT_C14326:NCIT_C14326|Rubulavirus|RUBULAVIRUS
-NCIT_C112289:NCIT_C112289|Hendra Virus|HENDRA VIRUS
-NCIT_C14220:NCIT_C14220|Human Immunodeficiency Virus 1|Human Immunodeficiency Virus, Type 1|HUMAN IMMUNODEFICIENCY VIRUS 1|LAV-1|HIV-1
-NCIT_C14268:NCIT_C14268|Retroviridae|Retrovirus|Virus-Retrovirus|retrovirus|Retroviruses
-NCIT_C113205:NCIT_C113205|Coronaviridae|CORONAVIRIDAE
-NCIT_C14221:NCIT_C14221|Human Immunodeficiency Virus 2|LAV-2|Human Immunodeficiency Virus, Type 2|HUMAN IMMUNODEFICIENCY VIRUS 2|HIV-2
-NCIT_C53468:NCIT_C53468|Influenza B Virus|Influenza Virus Type B|INFLUENZA B VIRUS|Influenza Type B|INFLUENZA B VIRUS WHOLE|FLUBV
-NCIT_C14219:NCIT_C14219|Human Immunodeficiency Virus|human immunodeficiency virus|HIV|Virus-HIV
-NCIT_C14328:NCIT_C14328|GB virus C|GBV-C/G|GBV-C|HGV|HEPATITIS G VIRUS|GB virus C/HGV|HGV-1|hepatitis G virus|Hepatitis GB virus C|GB Virus C/ Hepatitis G Virus|Hepatitis G Virus|GBV-HGV|Hepatitis GB virus C/G
-NCIT_C14235:NCIT_C14235|Mouse Mammary Tumor Virus|MMTV
-NCIT_C14291:NCIT_C14291|Betaretrovirus|Type B Mammalian Retrovirus|Type D Retrovirus|Type B Virus|Retroviruses, Type B, Mammalian
-NCIT_C112268:NCIT_C112268|Dengue Virus 3|DENGUE VIRUS 3|DENV-3|Dengue Virus Type 3|DEN-3
-NCIT_C112230:NCIT_C112230|Arbovirus|ARBOVIRUS|Arthropod-borne Virus
-NCIT_C102904:NCIT_C102904|Human Papillomavirus-31|HPV-31|Human Papillomavirus Type 31|HPV31
-NCIT_C102997:NCIT_C102997|Human Papillomavirus-35|HPV-35|HPV35|Human Papillomavirus Type 35
-NCIT_C103009:NCIT_C103009|Human Papillomavirus-82|HPV82|HPV-82|Human Papillomavirus Type 82
-NCIT_C14241:NCIT_C14241|Moloney Leukemia Virus|MoMuLV|Moloney Murine Leukemia Virus|MURINE LEUKEMIA VIRUS SUBTYPE MOLONEY|Moloney Murine Leukemia Virus M-MuLV|Moloney Virus|Rat Moloney Murine Leukemia Virus MoMuLV|M-MuLV|MLV
-NCIT_C14312:NCIT_C14312|Hepatitis C Virus|HCV|Virus-Hepatitis C|Hepatitis C|HEPATITIS C VIRUS
-NCIT_C181465:NCIT_C181465|Human Poliovirus Type 1|Human poliovirus type 1|NC Type 1|HUMAN POLIOVIRUS 1
-NCIT_C112356:NCIT_C112356|Molluscipoxvirus|Molluscipox Virus|MOLLUSCIPOXVIRUS
-NCIT_C14247:NCIT_C14247|Avian Myeloblastosis Virus
-NCIT_C14299:NCIT_C14299|Parvovirus|Parvoviridae
+NCIT_C185726:NCIT_C185726|SARS Coronavirus 2 BA.1.1|BA.1.1|BA.11|SARS-CoV-2 BA.1.1|SARS-CoV-2 BA.11|SARS2 BA.1.1|SARS2 BA.11|SARS Coronavirus 2 BA.11|B.1.1.529.1.1|B.1.1.529.11|SARS Coronavirus 2 Variant Lineage BA.1.1|SARS Coronavirus 2 Variant Lineage BA.11|Omicron
+NCIT_C48818:NCIT_C48818|Adeno-Associated Virus Type 2|Adeno-Associated Virus-2|Adeno-Associated Virus2|AAV2
 NCIT_C14277:NCIT_C14277|Simian T-Lymphotropic Virus Type I|Simian T-Lymphotropic Virus I|STLV
-NCIT_C112031:NCIT_C112031|Filoviridae|Filovirus|FILOVIRIDAE
-NCIT_C14245:NCIT_C14245|Mumps Virus|Mumps orthorubulavirus|MUMPS VIRUS|Rubulavirus Mumps|MUMPS RUBULAVIRUS
-NCIT_C102999:NCIT_C102999|Human Papillomavirus-45|HPV-45|Human Papillomavirus Type 45|HPV45
-NCIT_C112397:NCIT_C112397|Phlebovirus|PHLEBOVIRUS
-NCIT_C14334:NCIT_C14334|Endogenous Retrovirus|ENDOGENOUS RETROVIRUS|ERV
-NCIT_C179596:NCIT_C179596|SARS Coronavirus 2 B.1.617.3|SARS Coronavirus 2 Variant Lineage B.1.617.3|B.1.617.3 India October 2020|B.1.617.3|SARS-CoV-2 B.1.617.3|SARS2 B.1.617.3
-NCIT_C112318:NCIT_C112318|Human Parainfluenza Virus 4|HPIV Type 4|Human Rubulavirus 4|HUMAN PARAINFLUENZA VIRUS 4|HPIV-4|Human Parainfluenza Virus Type 4|Human orthorubulavirus 4
-NCIT_C73535:NCIT_C73535|Merkel Cell Polyomavirus|MCPyV|MCV
-NCIT_C14300:NCIT_C14300|Rous Sarcoma Virus|RSV
-NCIT_C125956:NCIT_C125956|Metapneumovirus|METAPNEUMOVIRUS
-NCIT_C14260:NCIT_C14260|Polyomavirus|POLYOMAVIRUS|Polyoma
-NCIT_C112028:NCIT_C112028|Bunyaviridae
-NCIT_C112405:NCIT_C112405|Rabies Virus|RABIES VIRUS
-NCIT_C179575:NCIT_C179575|SARS Coronavirus 2 B.1.351|B.1.351|SARS Coronavirus 2 Variant Lineage B.1.351|SARS-CoV-2 B.1.351|Beta|SARS2 B.1.351|B.1.351 South Africa
-NCIT_C112027:NCIT_C112027|Rhabdoviridae
-NCIT_C112398:NCIT_C112398|Pneumovirus|PNEUMOVIRUS
-NCIT_C14214:NCIT_C14214|Hepadnavirus
-NCIT_C14281:NCIT_C14281|Vaccinia Virus|Vaccinia|VACCINIA VIRUS
-NCIT_C112330:NCIT_C112330|Lyssavirus|LYSSAVIRUS
-NCIT_C14332:NCIT_C14332|Avian Leukemia Sarcoma Virus|ALSV-A
-NCIT_C14208:NCIT_C14208|Flavivirus|FLAVIVIRUS|Arboviruses Group B
-NCIT_C184327:NCIT_C184327|SARS Coronavirus 2 B.1.1.529|Omicron|SARS-CoV-2 B.1.1.529|SARS Coronavirus 2 Variant Lineage B.1.1.529|B.1.1.529|SARS2 B.1.1.529
-NCIT_C179582:NCIT_C179582|SARS Coronavirus 2 B.1.526.1|B.1.526.1 US New York October 2020|B.1.526.1|SARS-CoV-2 B.1.526.1|SARS2 B.1.526.1|SARS Coronavirus 2 Variant Lineage B.1.526.1
-NCIT_C14367:NCIT_C14367|Latent Virus
-NCIT_C14341:NCIT_C14341|Primate Retrovirus
-NCIT_C112409:NCIT_C112409|Rhinovirus C|RHINOVIRUS C|Human Rhinovirus C
-NCIT_C14242:NCIT_C14242|Moloney Sarcoma Virus|Moloney Murine Sarcoma Virus|MMSV|MoMSV|MoMuSV
-NCIT_C14244:NCIT_C14244|Mouse Leukemia Virus|MURINE LEUKEMIA VIRUS|MuLV|Murine Leukemia Virus MuLV|Murine Leukemia Virus MLV|Murine Leukemia Virus
-NCIT_C103003:NCIT_C103003|Human Papillomavirus-56|HPV56|Human Papillomavirus Type 56|HPV-56
-NCIT_C103009:NCIT_C103009|Human Papillomavirus-82|HPV82|HPV-82|Human Papillomavirus Type 82
-NCIT_C53496:NCIT_C53496|Avian Influenza A Virus|Bird Flu Virus|Avian Influenza Virus
-NCIT_C181075:NCIT_C181075|SARS Coronavirus 2 AY.3|SARS-CoV-2 B.1617.2.3|B.1.617.2.3|SARS-CoV-2 AY.3|SARS2 B.1.617.2.3|SARS Coronavirus 2 Variant Lineage AY.3|AY.3|SARS2 AY.3|Delta|SARS Coronavirus 2 B.1.617.2.3|SARS Coronavirus 2 Variant Lineage B.1.617.2.3
-NCIT_C180778:NCIT_C180778|SARS Coronavirus 2 C.37|C.37|Lambda|SARS Coronavirus 2 Variant Lineage C.37|SARS-CoV-2 C.37|SARS2 C.37
-NCIT_C112411:NCIT_C112411|Ross River Virus|RRV|ROSS RIVER VIRUS
-NCIT_C14318:NCIT_C14318|Ovine Jaagziekte Virus|Jaagsiekte Sheep Retrovirus|Sheep Pulmonary Adenomatosis Virus
-NCIT_C14290:NCIT_C14290|Lentivirus|LENTIVIRUS|Virus-Lenti|Lentivirinae
-NCIT_C14179:NCIT_C14179|Adenoviridae|Adenovirus|ADENOVIRIDAE|adenovirus
-NCIT_C179577:NCIT_C179577|SARS Coronavirus 2 B.1.429|SARS-CoV-2 B.1.429|SARS Coronavirus 2 Variant Lineage B.1.429|B.1.429 US California|B.1.429|Epsilon|SARS2 B.1.429
-NCIT_C103005:NCIT_C103005|Human Papillomavirus-59|HPV-59|HPV59|Human Papillomavirus Type 59
-NCIT_C14215:NCIT_C14215|Hepatitis B Virus|Virus-Hepatitis B|hepatitis B virus|HBV|HEPATITIS B VIRUS
+NCIT_C14326:NCIT_C14326|Rubulavirus|RUBULAVIRUS
+NCIT_C14327:NCIT_C14327|Human Herpesvirus 8|Kaposi Sarcoma Herpes Virus|HUMAN HERPESVIRUS 8|human herpesvirus 8|Kaposi sarcoma-associated herpesvirus|Kaposi's sarcoma-associated herpesvirus|HHV-8|HHV8|KSHV|Virus-HHV8|Kaposi Sarcoma-Associated Herpes Virus
 NCIT_C112026:NCIT_C112026|Reoviridae|Respiratory Enteric Orphan Virus|Reovirus
-NCIT_C112232:NCIT_C112232|Barmah Forest Virus|BARMAH FOREST VIRUS
-NCIT_C14312:NCIT_C14312|Hepatitis C Virus|HCV|Virus-Hepatitis C|Hepatitis C|HEPATITIS C VIRUS
-NCIT_C14338:NCIT_C14338|Human Papillomavirus Type 16|Human Papillomavirus-16|High-Risk Human Papillomavirus Subtype HPV16|High-Risk Human Papillomavirus 16|HPV16|High-Risk Subtype HPV16|hrHPV16|High-Risk Human Papillomavirus Subtype 16|HPV Genotype 16|Human Papillomavirus Genotype 16|Human Papillomavirus 16|High-Risk Subtype HPV-16|High-Risk Human Papillomavirus-16|hrHPV-16|HPV-16
-NCIT_C157254:NCIT_C157254|HPV-Low Risk|Low-Risk HPV|Low Risk Human Papilloma Virus|Low-Risk Human Papilloma Virus|Low-Risk HPV Subtype|Low-Risk Human Papillomavirus|Low-Risk Subtype (6, 11, etc.)|Low Risk HPV|Low Risk Human Papillomavirus|Low-Risk HPV Strain
-NCIT_C112331:NCIT_C112331|Marburgvirus|MARBURGVIRUS
-NCIT_C14224:NCIT_C14224|HTLV-2|HTLV-II|Human T-Lymphotropic Virus, Type II|Human T-Lymphotropic Virus 2|HUMAN T-LYMPHOTROPIC VIRUS 2|Virus-HTLV-II
-NCIT_C99178:NCIT_C99178|Human Papillomavirus-11|HPV-11|Human Papillomavirus Type 11
-NCIT_C184697:NCIT_C184697|Human Respiratory Syncytial Virus Type B|RESPIRATORY SYNCYTIAL VIRUS TYPE B|RSV-B|Respiratory Syncytial Virus Subsp. B|RSV Type B
-NCIT_C29916:NCIT_C29916|Graffi Murine Leukemia Virus|Graffi MuLV
-NCIT_C102995:NCIT_C102995|Human Papillomavirus-26|Human Papillomavirus Type 26|HPV-26|HPV26|Alphapapillomavirus 5
-NCIT_C103008:NCIT_C103008|Human Papillomavirus-73|Human Papillomavirus Type 73|HPV-73|HPV73
-NCIT_C61156:NCIT_C61156|Baculoviridae|Baculoviral|Baculovirus
-NCIT_C14253:NCIT_C14253|Papovavirus|Virus-Papova
-NCIT_C112318:NCIT_C112318|Human Parainfluenza Virus 4|HPIV Type 4|Human Rubulavirus 4|HUMAN PARAINFLUENZA VIRUS 4|HPIV-4|Human Parainfluenza Virus Type 4|Human orthorubulavirus 4
-NCIT_C14309:NCIT_C14309|Morbillivirus|MORBILLIVIRUS
-NCIT_C29914:NCIT_C29914|R7 Virus|Recombinant 7|MoMuSV 124 variant R7
-NCIT_C178020:NCIT_C178020|Human Coronavirus HKU1|HUMAN CORONAVIRUS HKU1|HCoV-HKU1
-NCIT_C103007:NCIT_C103007|Human Papillomavirus-68|HPV-68|HPV68|Human Papillomavirus Type 68
-NCIT_C14295:NCIT_C14295|Hepatitis E Virus|HEPATITIS E VIRUS|HEV|hepatitis E virus
-NCIT_C117712:NCIT_C117712|Bovine Lentivirus Group|Bovine Lentivirus Serogroup
-NCIT_C29901:NCIT_C29901|Moloney Murine Leukemia Virus TB|Moloney Murine Leukemia Virus, TB Strain|MoMuLV-TB
-NCIT_C117713:NCIT_C117713|Equine Lentivirus Group|Equine Lentivirus Serogroup
-NCIT_C93023:NCIT_C93023|Newcastle Disease Virus|Newcastle disease virus|NEWCASTLE DISEASE VIRUS|Avian Paramyxovirus Type 1|NDV
-NCIT_C14337:NCIT_C14337|Bovine Papillomavirus-1|BPV-1
-NCIT_C112315:NCIT_C112315|Human Herpesvirus 7|HHV-7|HUMAN HERPESVIRUS 7
-NCIT_C112410:NCIT_C112410|Roseolovirus|ROSEOLOVIRUS
-NCIT_C71877:NCIT_C71877|West Nile Virus|WEST NILE VIRUS|WNV
-NCIT_C112419:NCIT_C112419|Herpes Simplex Virus|Human Herpes Simplex Virus|HSV|human herpesvirus|Simplexvirus|herpes simplex virus|SIMPLEXVIRUS|HHV
-NCIT_C14218:NCIT_C14218|Human Herpesvirus 6|HHV-6|Virus-HHV6|HHV6|HUMAN HERPESVIRUS 6|Herpes Simplex Virus 6
-NCIT_C179586:NCIT_C179586|SARS Coronavirus 2 B.1.617.2|B.1.617.2 India December 2020|SARS2 B.1.617.2|Delta|B.1.617.2|SARS Coronavirus 2 Variant Lineage B.1.617.2|SARS-CoV-2 B.1.617.2
-NCIT_C28578:NCIT_C28578|Harvey Murine Sarcoma Virus|Harvey Sarcoma Virus
-NCIT_C121657:NCIT_C121657|Porcine Epidemic Diarrhea Virus|PEDV
-NCIT_C140177:NCIT_C140177|Subviral Satellite|Satellite
-NCIT_C112269:NCIT_C112269|Dengue Virus 4|DENV-4|DENGUE VIRUS 4|Dengue Virus Type 4|DEN-4
-NCIT_C14305:NCIT_C14305|Gammaretrovirus|Type C Mammalian Retrovirus|Retroviruses, Type C, Mammalian
-NCIT_C29917:NCIT_C29917|Gross Leukemia Virus|Gross Virus|GLV|Gross passage A murine leukemia virus
-NCIT_C112363:NCIT_C112363|Norwalk Virus|Norwalk calicivirus|NORWALK VIRUS
-NCIT_C14230:NCIT_C14230|Lymphocytic Choriomeningitis Virus|LCMV
-NCIT_C53469:NCIT_C53469|Influenzavirus
-NCIT_C14291:NCIT_C14291|Betaretrovirus|Type B Mammalian Retrovirus|Type D Retrovirus|Type B Virus|Retroviruses, Type B, Mammalian
-NCIT_C185727:NCIT_C185727|SARS Coronavirus 2 BA.2|Omicron|SARS Coronavirus 2 Variant Lineage BA.2|BA.2|SARS-CoV-2 BA.2|SARS2 BA.2|B.1.1.529.2
-NCIT_C14338:NCIT_C14338|Human Papillomavirus Type 16|Human Papillomavirus-16|High-Risk Human Papillomavirus Subtype HPV16|High-Risk Human Papillomavirus 16|HPV16|High-Risk Subtype HPV16|hrHPV16|High-Risk Human Papillomavirus Subtype 16|HPV Genotype 16|Human Papillomavirus Genotype 16|Human Papillomavirus 16|High-Risk Subtype HPV-16|High-Risk Human Papillomavirus-16|hrHPV-16|HPV-16
-NCIT_C103004:NCIT_C103004|Human Papillomavirus-58|HPV-58|Human Papillomavirus Type 58|HPV58
-NCIT_C112422:NCIT_C112422|Tick-Borne Encephalitis Virus|TICK-BORNE ENCEPHALITIS VIRUS|TBEV|FSME virus
-NCIT_C117714:NCIT_C117714|Feline Lentivirus Group|Feline Lentivirus Serogroup
-NCIT_C53454:NCIT_C53454|Influenza A Virus|Influenza Type A|INFLUENZA A VIRUS|Influenza Virus Type A|influenza A virus|INFLUENZA A VIRUS WHOLE|FLUAV
-NCIT_C84344:NCIT_C84344|Xenotropic Murine Leukemia Virus-related Virus|XMRV
-NCIT_C184687:NCIT_C184687|Norovirus Genogroup II|Norovirus GII|NOROVIRUS GENOGROUP II
-NCIT_C103000:NCIT_C103000|Human Papillomavirus-51|HPV-51|HPV51|Human Papillomavirus Type 51
-NCIT_C112271:NCIT_C112271|Ebola Virus|EBOV|EBOLA VIRUS
-NCIT_C14236:NCIT_C14236|Mason-Pfizer Monkey Virus|MPMV
-NCIT_C97157:NCIT_C97157|Influenza C Virus|Influenza Virus Type C|FLUCV|INFLUENZA C VIRUS
-NCIT_C29889:NCIT_C29889|Regressing Friend Leukemia Virus|Friend Leukemia Virus, Regressing|Regressing FV|CFV
-NCIT_C14362:NCIT_C14362|Friend Murine Leukemia Virus|Friend Leukemia Virus, Conventional|Friend Leukemia Virus|CFV
+NCIT_C117711:NCIT_C117711|Bovine Immunodeficiency Virus|BIV
+NCIT_C53468:NCIT_C53468|Influenza B Virus|FLUBV|INFLUENZA B VIRUS WHOLE|INFLUENZA B VIRUS|Influenza Virus Type B|Influenza Type B
+NCIT_C14179:NCIT_C14179|Adenoviridae|Adenovirus|adenovirus|ADENOVIRIDAE
+NCIT_C14257:NCIT_C14257|Plant Virus|Viruses, Plant
+NCIT_C179586:NCIT_C179586|SARS Coronavirus 2 B.1.617.2|SARS2 B.1.617.2|SARS2 B.1.6172|SARS-CoV-2 B.1.617.2|SARS-CoV-2 B.1.6172|B.1.617.2 India December 2020|SARS Coronavirus 2 B.1.6172|SARS Coronavirus 2 Variant Lineage B.1.617.2|SARS Coronavirus 2 Variant Lineage B.1.6172|B.1.617.2|B.1.6172|Delta
+NCIT_C102998:NCIT_C102998|Human Papillomavirus-39|HPV39|HPV-39|Human Papillomavirus Type 39|Human Papillomavirus39
+NCIT_C112318:NCIT_C112318|Human Parainfluenza Virus 4|Human Parainfluenza Virus Type 4|Human Rubulavirus 4|HPIV Type 4|HPIV-4|HPIV4|Human orthorubulavirus 4|HUMAN PARAINFLUENZA VIRUS 4
+NCIT_C14223:NCIT_C14223|HTLV-1|HTLV1|Human T-Lymphotropic Virus, Type I|human T-cell lymphotropic virus type 1|Adult T-cell Lymphoma Virus Type 1|Adult T-cell Leukemia Lymphoma ATLL|HUMAN T-LYMPHOTROPIC VIRUS 1|Human T-Lymphotropic Virus 1|human T-cell leukemia virus type 1|Virus-HTLV-I|HTLV-I
+NCIT_C157254:NCIT_C157254|HPV-Low Risk|Low-Risk Human Papillomavirus|Low-Risk Human Papilloma Virus|Low Risk Human Papillomavirus|Low-Risk HPV|Low Risk HPV|Low-Risk HPV Strain|Low-Risk Subtype (6, 11, etc.)|Low Risk Human Papilloma Virus|Low-Risk HPV Subtype
+NCIT_C14217:NCIT_C14217|Herpesvirus|Herpesviridae|Herpes Virus|Virus-Herpes|herpesvirus
+NCIT_C14375:NCIT_C14375|Escape Mutant
 NCIT_C117715:NCIT_C117715|Ovine/Caprine Lentivirus Group|Ovine/Caprine Lentivirus Serogroup
+NCIT_C14235:NCIT_C14235|Mouse Mammary Tumor Virus|MMTV
+NCIT_C112358:NCIT_C112358|Nairovirus|NAIROVIRUS
+NCIT_C75532:NCIT_C75532|Parainfluenza Virus
+NCIT_C102996:NCIT_C102996|Human Papillomavirus-33|HPV-33|HPV33|Human Papillomavirus33|Human Papillomavirus Type 33
+NCIT_C112268:NCIT_C112268|Dengue Virus 3|DENV-3|DENV3|Dengue Virus Type 3|DENGUE VIRUS 3|DEN-3|DEN3
+NCIT_C112409:NCIT_C112409|Rhinovirus C|RHINOVIRUS C|Human Rhinovirus C
+NCIT_C117711:NCIT_C117711|Bovine Immunodeficiency Virus|BIV
+NCIT_C14319:NCIT_C14319|Human Papillomavirus-6|HPV-6|HPV6|Human Papillomavirus Type 6|Human Papillomavirus6
+NCIT_C14344:NCIT_C14344|Sloan Kettering Virus|Avian erythroblastosis virus (strain Sloan-Kettering)|SKVS
+NCIT_C178659:NCIT_C178659|HERV-E|ERVE-4|ERVE4|hERV-E|Human Endogenous Retrovirus Group E
+NCIT_C29902:NCIT_C29902|Nodule-Inducing Virus|NIV
+NCIT_C122313:NCIT_C122313|Gammacoronavirus|Coronavirus group 3|GAMMACORONAVIRUS
+NCIT_C112030:NCIT_C112030|Alphavirus|Arboviruses Group A|ALPHAVIRUS
+NCIT_C94190:NCIT_C94190|Enveloped Virus|enveloped virus
+NCIT_C14362:NCIT_C14362|Friend Murine Leukemia Virus|Friend Leukemia Virus, Conventional|CFV|Friend Leukemia Virus
+NCIT_C28578:NCIT_C28578|Harvey Murine Sarcoma Virus|Harvey Sarcoma Virus
+NCIT_C14279:NCIT_C14279|SV40|Simian Vacuolating Virus 40|Virus-SV40|simian virus 40|Simian Virus 40
+NCIT_C125956:NCIT_C125956|Metapneumovirus|METAPNEUMOVIRUS
+NCIT_C29902:NCIT_C29902|Nodule-Inducing Virus|NIV
+NCIT_C14304:NCIT_C14304|Caliciviridae|CALICIVIRIDAE
+NCIT_C112243:NCIT_C112243|Coxsackie B Virus|Enterovirus EV-B|Human Enterovirus B|Coxsackie Virus B|Enterovirus B|COXSACKIE B VIRUS
+NCIT_C103006:NCIT_C103006|Human Papillomavirus-66|Human Papillomavirus66|HPV-66|HPV66|Human Papillomavirus Type 66
+NCIT_C134498:NCIT_C134498|Powassan Virus|POW
+NCIT_C112367:NCIT_C112367|Parapoxvirus|PARAPOXVIRUS
+NCIT_C73535:NCIT_C73535|Merkel Cell Polyomavirus|MCV|MCPyV
+NCIT_C117712:NCIT_C117712|Bovine Lentivirus Group|Bovine Lentivirus Serogroup
+NCIT_C97157:NCIT_C97157|Influenza C Virus|FLUCV|Influenza Virus Type C|INFLUENZA C VIRUS
+NCIT_C14218:NCIT_C14218|Human Herpesvirus 6|Virus-HHV6|Herpes Simplex Virus 6|HHV6|HHV-6|HUMAN HERPESVIRUS 6
+NCIT_C14328:NCIT_C14328|GB virus C|GBV-C|hepatitis G virus|GBV-C/G|Hepatitis G Virus|Hepatitis GB virus C|HEPATITIS G VIRUS|Hepatitis GB virus C/G|GB Virus C/ Hepatitis G Virus|GB virus C/HGV|GBV-HGV|HGV|HGV-1|HGV1
+NCIT_C14307:NCIT_C14307|Paramyxovirinae
+NCIT_C14186:NCIT_C14186|Alpharetrovirus|Avian Retrovirus|Retroviruses, Type C, Avian|Type C Avian Retrovirus
+NCIT_C29916:NCIT_C29916|Graffi Murine Leukemia Virus|Graffi MuLV
+NCIT_C103000:NCIT_C103000|Human Papillomavirus-51|Human Papillomavirus Type 51|HPV51|HPV-51|Human Papillomavirus51
+NCIT_C184697:NCIT_C184697|Human Respiratory Syncytial Virus Type B|RESPIRATORY SYNCYTIAL VIRUS TYPE B|RSV-B|RSV Type B|Respiratory Syncytial Virus Subsp. B
+NCIT_C103004:NCIT_C103004|Human Papillomavirus-58|Human Papillomavirus Type 58|HPV-58|HPV58|Human Papillomavirus58
+NCIT_C14293:NCIT_C14293|Spumavirus|Foamy Virus|Foamy Retrovirus
+NCIT_C14230:NCIT_C14230|Lymphocytic Choriomeningitis Virus|LCMV
+NCIT_C102996:NCIT_C102996|Human Papillomavirus-33|HPV-33|HPV33|Human Papillomavirus33|Human Papillomavirus Type 33
+NCIT_C171516:NCIT_C171516|Middle East Respiratory Syndrome Coronavirus|MIDDLE EAST RESPIRATORY SYNDROME CORONAVIRUS|MERS Virus|MERS-CoV|Middle East Respiratory Syndrome-related Coronavirus
+NCIT_C14213:NCIT_C14213|Hantavirus|HANTAVIRUS
+NCIT_C112289:NCIT_C112289|Hendra Virus|HENDRA VIRUS
+NCIT_C89820:NCIT_C89820|BK Virus|BKV|Papovavirus BKV|BK POLYOMAVIRUS|Polyomavirus Type BK|Polyomavirus BK|BK Polyomavirus
+NCIT_C97346:NCIT_C97346|Bacteriophage Phi X 174|PhiX174|Phi X174|Enterobacteria Phage PhiX174|Phi X 174
+NCIT_C112426:NCIT_C112426|Varicellovirus|Varicellavirus|VARICELLOVIRUS
+NCIT_C112366:NCIT_C112366|Orthobunyavirus|ORTHOBUNYAVIRUS|Bunyavirus
+NCIT_C103007:NCIT_C103007|Human Papillomavirus-68|HPV-68|HPV68|Human Papillomavirus68|Human Papillomavirus Type 68
+NCIT_C14367:NCIT_C14367|Latent Virus
+NCIT_C112290:NCIT_C112290|Henipavirus|HENIPAVIRUS
+NCIT_C93023:NCIT_C93023|Newcastle Disease Virus|Newcastle disease virus|NDV|Avian Paramyxovirus Type 1|NEWCASTLE DISEASE VIRUS
+NCIT_C96524:NCIT_C96524|Orthopoxvirus|ORTHOPOXVIRUS
+NCIT_C97156:NCIT_C97156|Yellow Fever Virus|Flavivirus Yellow Fever Virus|YFV|YELLOW FEVER VIRUS|Flavivirus febricis
+NCIT_C14288:NCIT_C14288|Feline Immunodeficiency Virus|FIV
+NCIT_C103009:NCIT_C103009|Human Papillomavirus-82|HPV82|HPV-82|Human Papillomavirus82|Human Papillomavirus Type 82
+NCIT_C112415:NCIT_C112415|Sapporo Virus|SAPPORO VIRUS|Human Calicivirus Sapporo-like Virus|Human Calicivirus SLV
+NCIT_C112240:NCIT_C112240|Colorado Tick Fever Virus|CTFV|COLORADO TICK FEVER VIRUS
+NCIT_C117713:NCIT_C117713|Equine Lentivirus Group|Equine Lentivirus Serogroup
+NCIT_C169076:NCIT_C169076|SARS Coronavirus 2|SARS2|Human Coronavirus 2019|HCoV-19|HCoV19|Severe Acute Respiratory Syndrome Coronavirus 2|2019-nCoV|COVID-19 Virus|SARS-2|SARS-CoV-2|SARS-CoV2|2019 Novel Coronavirus|SEVERE ACUTE RESPIRATORY SYNDROME CORONAVIRUS 2|Novel Coronavirus|nCoV
+NCIT_C102904:NCIT_C102904|Human Papillomavirus-31|HPV-31|HPV31|Human Papillomavirus Type 31|Human Papillomavirus31
+NCIT_C14199:NCIT_C14199|DNA Tumor Virus
+NCIT_C112272:NCIT_C112272|Echovirus|ECHOVIRUS
+NCIT_C14300:NCIT_C14300|Rous Sarcoma Virus|RSV
+NCIT_C112356:NCIT_C112356|Molluscipoxvirus|Molluscipox Virus|MOLLUSCIPOXVIRUS
+NCIT_C14332:NCIT_C14332|Avian Leukemia Sarcoma Virus|ALSV-A
+NCIT_C14281:NCIT_C14281|Vaccinia Virus|VACCINIA VIRUS|Vaccinia
+NCIT_C14299:NCIT_C14299|Parvovirus|Parvoviridae
+NCIT_C178019:NCIT_C178019|Human Coronavirus 229E|HCoV-229E|Coronavirus 229E|HUMAN CORONAVIRUS 229E
+NCIT_C14214:NCIT_C14214|Hepadnavirus
+NCIT_C103004:NCIT_C103004|Human Papillomavirus-58|Human Papillomavirus Type 58|HPV-58|HPV58|Human Papillomavirus58
+NCIT_C14268:NCIT_C14268|Retroviridae|retrovirus|Retrovirus|Virus-Retrovirus|Retroviruses
+NCIT_C29917:NCIT_C29917|Gross Leukemia Virus|Gross passage A murine leukemia virus|Gross Virus|GLV
+NCIT_C29914:NCIT_C29914|R7 Virus|MoMuSV 124 variant R7|Recombinant 7
+NCIT_C14338:NCIT_C14338|Human Papillomavirus Type 16|hrHPV16|HPV-16|HPV16|High-Risk Subtype HPV16|Human Papillomavirus 16|High-Risk Human Papillomavirus Subtype HPV16|High-Risk Subtype HPV-16|Human Papillomavirus Genotype 16|High-Risk Human Papillomavirus 16|HPV Genotype 16|hrHPV-16|Human Papillomavirus-16|Human Papillomavirus16|High-Risk Human Papillomavirus Subtype 16|High-Risk Human Papillomavirus-16|High-Risk Human Papillomavirus16
+NCIT_C122279:NCIT_C122279|Deltacoronavirus|Coronavirus Group 3|DELTACORONAVIRUS
+NCIT_C14241:NCIT_C14241|Moloney Leukemia Virus|MoMuLV|Moloney Murine Leukemia Virus M-MuLV|Moloney Murine Leukemia Virus|M-MuLV|MURINE LEUKEMIA VIRUS SUBTYPE MOLONEY|Rat Moloney Murine Leukemia Virus MoMuLV|Moloney Virus|MLV
+NCIT_C29889:NCIT_C29889|Regressing Friend Leukemia Virus|Regressing FV|CFV|Friend Leukemia Virus, Regressing
+NCIT_C103007:NCIT_C103007|Human Papillomavirus-68|HPV-68|HPV68|Human Papillomavirus68|Human Papillomavirus Type 68
+NCIT_C102998:NCIT_C102998|Human Papillomavirus-39|HPV39|HPV-39|Human Papillomavirus Type 39|Human Papillomavirus39
+NCIT_C112029:NCIT_C112029|Sapovirus|SAPOVIRUS
+NCIT_C112357:NCIT_C112357|Molluscum Contagiosum Virus|MCV|MOLLUSCUM CONTAGIOSUM VIRUS|MOCV
+NCIT_C112313:NCIT_C112313|Human Herpesvirus 2|HUMAN HERPESVIRUS 2|HSV-2|HSV2|Herpes Simplex Virus Type 2|Herpes Simplex Virus 2|HHV-2|HHV2
+NCIT_C112266:NCIT_C112266|Dengue Virus 1|DENGUE VIRUS 1|DENV-1|DENV1|Dengue Virus Type 1|DEN-1|DEN1
+NCIT_C14241:NCIT_C14241|Moloney Leukemia Virus|MoMuLV|Moloney Murine Leukemia Virus M-MuLV|Moloney Murine Leukemia Virus|M-MuLV|MURINE LEUKEMIA VIRUS SUBTYPE MOLONEY|Rat Moloney Murine Leukemia Virus MoMuLV|Moloney Virus|MLV
+NCIT_C14261:NCIT_C14261|Poxvirus|Poxviridae
+NCIT_C14342:NCIT_C14342|PVC-211 MuLV|Friend murine leukemia virus (ISOLATE PVC-211)
+NCIT_C112271:NCIT_C112271|Ebola Virus|EBOLA VIRUS|EBOV
+NCIT_C103009:NCIT_C103009|Human Papillomavirus-82|HPV82|HPV-82|Human Papillomavirus82|Human Papillomavirus Type 82
+NCIT_C14260:NCIT_C14260|Polyomavirus|POLYOMAVIRUS|Polyoma
+NCIT_C14319:NCIT_C14319|Human Papillomavirus-6|HPV-6|HPV6|Human Papillomavirus Type 6|Human Papillomavirus6
+NCIT_C14301:NCIT_C14301|Bacteriophage P1|Enterobacteria Phage P1
+NCIT_C178022:NCIT_C178022|Human Coronavirus OC43|HUMAN CORONAVIRUS OC43|HCoV-OC43
+NCIT_C26431:NCIT_C26431|Coronavirus
+NCIT_C181075:NCIT_C181075|SARS Coronavirus 2 AY.3|SARS Coronavirus 2 AY3|SARS Coronavirus 2 B.1.617.2.3|SARS Coronavirus 2 B.1.617.23|SARS2 AY.3|SARS2 AY3|SARS-CoV-2 B.1617.2.3|SARS-CoV-2 B.1617.23|B.1.617.2.3|B.1.617.23|SARS-CoV-2 AY.3|SARS-CoV-2 AY3|SARS2 B.1.617.2.3|SARS2 B.1.617.23|SARS Coronavirus 2 Variant Lineage B.1.617.2.3|SARS Coronavirus 2 Variant Lineage B.1.617.23|SARS Coronavirus 2 Variant Lineage AY.3|SARS Coronavirus 2 Variant Lineage AY3|Delta|AY.3|AY3
+NCIT_C14247:NCIT_C14247|Avian Myeloblastosis Virus
+NCIT_C99178:NCIT_C99178|Human Papillomavirus-11|Human Papillomavirus11|HPV-11|HPV11|Human Papillomavirus Type 11
+NCIT_C89772:NCIT_C89772|Parvovirus B19|B19 Virus|Erythrovirus B19|HUMAN PARVOVIRUS B19|Human Parvovirus B19|Human Erythrovirus B19
+NCIT_C117721:NCIT_C117721|Respirovirus
+NCIT_C180977:NCIT_C180977|SARS Coronavirus 2 AY.1|SARS Coronavirus 2 B.1.617.2.1|SARS Coronavirus 2 B.1.617.21|AY.1|AY1|SARS-CoV-2 B.1617.2.1|SARS-CoV-2 B.1617.21|SARS-CoV-2 AY.1|SARS-CoV-2 AY1|SARS Coronavirus 2 Variant Lineage AY.1|SARS Coronavirus 2 Variant Lineage AY1|SARS2 AY.1|SARS2 AY1|SARS Coronavirus 2 AY1|SARS2 B.1.617.2.1|SARS2 B.1.617.21|B.1.617.2.1|B.1.617.21|SARS Coronavirus 2 Variant Lineage B.1.617.2.1|SARS Coronavirus 2 Variant Lineage B.1.617.21|Delta
+NCIT_C14291:NCIT_C14291|Betaretrovirus|Retroviruses, Type B, Mammalian|Type B Virus|Type B Mammalian Retrovirus|Type D Retrovirus
+NCIT_C14362:NCIT_C14362|Friend Murine Leukemia Virus|Friend Leukemia Virus, Conventional|CFV|Friend Leukemia Virus
+NCIT_C14416:NCIT_C14416|Abelson Murine Leukemia Virus|A-MuLV
+NCIT_C14215:NCIT_C14215|Hepatitis B Virus|HEPATITIS B VIRUS|HBV|hepatitis B virus|Virus-Hepatitis B
+NCIT_C14226:NCIT_C14226|Human Papillomavirus|HUMAN PAPILLOMAVIRUS|human papillomavirus|Human Papilloma Virus|HPV
+NCIT_C102997:NCIT_C102997|Human Papillomavirus-35|Human Papillomavirus Type 35|HPV-35|HPV35|Human Papillomavirus35
+NCIT_C14249:NCIT_C14249|Tumor Virus|Tumor Viruses|Oncogenic Virus
+NCIT_C124253:NCIT_C124253|Woodchuck Hepatitis Virus|WHV
+NCIT_C29901:NCIT_C29901|Moloney Murine Leukemia Virus TB|Moloney Murine Leukemia Virus, TB Strain|MoMuLV-TB
+NCIT_C117716:NCIT_C117716|Primate Lentivirus Group|Primate Lentivirus Serogroup
+NCIT_C112405:NCIT_C112405|Rabies Virus|RABIES VIRUS
+NCIT_C77199:NCIT_C77199|Rotavirus|ROTAVIRUS
+NCIT_C166071:NCIT_C166071|Norovirus Genogroup II.4|Norovirus Genogroup GII.4|Norovirus Genogroup GII4|NOROVIRUS GENOGROUP II.4|NOROVIRUS GENOGROUP II4|Norovirus Genogroup II4|Norovirus GII.4|Norovirus GII4
+NCIT_C14236:NCIT_C14236|Mason-Pfizer Monkey Virus|MPMV
+NCIT_C14237:NCIT_C14237|Measles morbillivirus|Rubeola Virus|Subacute Sclerosing Panencephalitis Virus|Rougeole Virus|Measles Virus|MEASLES VIRUS|measles virus|MEASLES MORBILLIVIRUS|SSPEV
+NCIT_C112359:NCIT_C112359|Nipah Virus|NIPAH VIRUS|NiV
+NCIT_C14416:NCIT_C14416|Abelson Murine Leukemia Virus|A-MuLV
+NCIT_C14244:NCIT_C14244|Mouse Leukemia Virus|Murine Leukemia Virus MLV|Murine Leukemia Virus MuLV|MuLV|MURINE LEUKEMIA VIRUS|Murine Leukemia Virus
+NCIT_C179580:NCIT_C179580|SARS Coronavirus 2 B.1.526|Iota|SARS Coronavirus 2 B.1526|SARS2 B.1.526|SARS2 B.1526|B.1.526 US New York November 2020|SARS-CoV-2 B.1.526|SARS-CoV-2 B.1526|B.1.526|B.1526|SARS Coronavirus 2 Variant Lineage B.1.526|SARS Coronavirus 2 Variant Lineage B.1526
+NCIT_C14221:NCIT_C14221|Human Immunodeficiency Virus 2|HIV-2|HIV2|Human Immunodeficiency Virus, Type 2|LAV-2|LAV2|HUMAN IMMUNODEFICIENCY VIRUS 2
+NCIT_C184696:NCIT_C184696|Human Respiratory Syncytial Virus Type A|RSV-A|RSV Type A|Respiratory Syncytial Virus Subsp. A|RESPIRATORY SYNCYTIAL VIRUS TYPE A
+NCIT_C112229:NCIT_C112229|Aphthovirus|APHTHOVIRUS
+NCIT_C179598:NCIT_C179598|SARS Coronavirus 2 P.2|SARS Coronavirus 2 Variant Lineage P.2|SARS Coronavirus 2 Variant Lineage P2|B.1.1.28.2|B.1.1.282|P.2|SARS-CoV-2 B.1.128.2|SARS-CoV-2 B.1.1282|SARS2 P.2|SARS2 P2|SARS-CoV-2 P.2|SARS-CoV-2 P2|Zeta|SARS Coronavirus 2 P2|B.1.128.2|B.1.1282|P.2 Brazil April 2020
+NCIT_C14325:NCIT_C14325|Hepatitis A Virus|HHVA|HEPATITIS A VIRUS|HAV|Human Hepatitis A Virus|hepatitis A virus
+NCIT_C96527:NCIT_C96527|Variola Virus|Variola Virus VAR|Smallpox Virus|VARIOLA VIRUS
+NCIT_C103005:NCIT_C103005|Human Papillomavirus-59|Human Papillomavirus59|Human Papillomavirus Type 59|HPV59|HPV-59
+NCIT_C14220:NCIT_C14220|Human Immunodeficiency Virus 1|Human Immunodeficiency Virus, Type 1|HIV-1|HIV1|LAV-1|LAV1|HUMAN IMMUNODEFICIENCY VIRUS 1
+NCIT_C95945:NCIT_C95945|Viroid
+NCIT_C112410:NCIT_C112410|Roseolovirus|ROSEOLOVIRUS
+NCIT_C14302:NCIT_C14302|Bacteriophage T4|Coliphage T4|Enterobacteria Phage T4
+NCIT_C112315:NCIT_C112315|Human Herpesvirus 7|HHV-7|HHV7|HUMAN HERPESVIRUS 7
+NCIT_C14290:NCIT_C14290|Lentivirus|LENTIVIRUS|Virus-Lenti|Lentivirinae
+NCIT_C184686:NCIT_C184686|Norovirus Genogroup I|Human calicivirus genogroup 1|NOROVIRUS GENOGROUP I|Norovirus GI
+NCIT_C14245:NCIT_C14245|Mumps Virus|MUMPS VIRUS|MUMPS RUBULAVIRUS|Rubulavirus Mumps|Mumps orthorubulavirus
+NCIT_C117714:NCIT_C117714|Feline Lentivirus Group|Feline Lentivirus Serogroup
+NCIT_C14223:NCIT_C14223|HTLV-1|HTLV1|Human T-Lymphotropic Virus, Type I|human T-cell lymphotropic virus type 1|Adult T-cell Lymphoma Virus Type 1|Adult T-cell Leukemia Lymphoma ATLL|HUMAN T-LYMPHOTROPIC VIRUS 1|Human T-Lymphotropic Virus 1|human T-cell leukemia virus type 1|Virus-HTLV-I|HTLV-I
+NCIT_C179573:NCIT_C179573|SARS Coronavirus 2 B.1.1.7|Alpha|B.1.1.7|B.1.17|SARS Coronavirus 2 Variant Lineage B.1.1.7|SARS Coronavirus 2 Variant Lineage B.1.17|B.1.1.7 UK|SARS Coronavirus 2 B.1.17|SARS2 B.1.1.7|SARS2 B.1.17|SARS-CoV-2 B.1.1.7|SARS-CoV-2 B.1.17
+NCIT_C99178:NCIT_C99178|Human Papillomavirus-11|Human Papillomavirus11|HPV-11|HPV11|Human Papillomavirus Type 11
+NCIT_C117715:NCIT_C117715|Ovine/Caprine Lentivirus Group|Ovine/Caprine Lentivirus Serogroup
+NCIT_C93324:NCIT_C93324|Hepatitis D Virus|HEPATITIS D VIRUS|hepatitis D virus|hepatitis delta virus|Hepatitis Delta Virus|Delta Agent|HDV
+NCIT_C178020:NCIT_C178020|Human Coronavirus HKU1|HCoV-HKU1|HUMAN CORONAVIRUS HKU1
+NCIT_C102997:NCIT_C102997|Human Papillomavirus-35|Human Papillomavirus Type 35|HPV-35|HPV35|Human Papillomavirus35
+NCIT_C112397:NCIT_C112397|Phlebovirus|PHLEBOVIRUS
+NCIT_C112231:NCIT_C112231|Astroviridae|ASTROVIRIDAE|Astrovirus
+NCIT_C14224:NCIT_C14224|HTLV-2|HTLV2|Human T-Lymphotropic Virus, Type II|Human T-Lymphotropic Virus 2|HUMAN T-LYMPHOTROPIC VIRUS 2|HTLV-II|Virus-HTLV-II
+NCIT_C184365:NCIT_C184365|SARS-CoV-2 Variant of Interest|Variants of Interest|Variant of Interest|VOI
+NCIT_C184695:NCIT_C184695|Human Bocavirus|HUMAN BOCAVIRUS
+NCIT_C102904:NCIT_C102904|Human Papillomavirus-31|HPV-31|HPV31|Human Papillomavirus Type 31|Human Papillomavirus31
+NCIT_C112408:NCIT_C112408|Rhinovirus B|RHINOVIRUS B|Human Rhinovirus B
+NCIT_C112330:NCIT_C112330|Lyssavirus|LYSSAVIRUS
+NCIT_C14305:NCIT_C14305|Gammaretrovirus|Type C Mammalian Retrovirus|Retroviruses, Type C, Mammalian
+NCIT_C28578:NCIT_C28578|Harvey Murine Sarcoma Virus|Harvey Sarcoma Virus
+NCIT_C179577:NCIT_C179577|SARS Coronavirus 2 B.1.429|SARS-CoV-2 B.1.429|SARS-CoV-2 B.1429|SARS Coronavirus 2 B.1429|B.1.429|B.1429|Epsilon|B.1.429 US California|SARS Coronavirus 2 Variant Lineage B.1.429|SARS Coronavirus 2 Variant Lineage B.1429|SARS2 B.1.429|SARS2 B.1429
+NCIT_C14377:NCIT_C14377|Human Papillomavirus Type 18|HPV Genotype 18|Human Papillomavirus-18|Human Papillomavirus18|HPV-18|HPV18|Human Papillomavirus Genotype 18
+NCIT_C179575:NCIT_C179575|SARS Coronavirus 2 B.1.351|SARS Coronavirus 2 B.1351|SARS Coronavirus 2 Variant Lineage B.1.351|SARS Coronavirus 2 Variant Lineage B.1351|B.1.351|B.1351|SARS-CoV-2 B.1.351|SARS-CoV-2 B.1351|SARS2 B.1.351|SARS2 B.1351|B.1.351 South Africa|Beta
+NCIT_C103008:NCIT_C103008|Human Papillomavirus-73|Human Papillomavirus73|HPV73|Human Papillomavirus Type 73|HPV-73
+NCIT_C184367:NCIT_C184367|SARS-CoV-2 Variant of High Consequence|VOHC|Variant of High Consequence
+NCIT_C14347:NCIT_C14347|Deltaretrovirus|BLV-HTLV Retrovirus|DELTARETROVIRUS
+NCIT_C113207:NCIT_C113207|Betacoronavirus|Coronavirus Group 2|BETACORONAVIRUS|Beta-CoV
+NCIT_C29914:NCIT_C29914|R7 Virus|MoMuSV 124 variant R7|Recombinant 7
+NCIT_C29917:NCIT_C29917|Gross Leukemia Virus|Gross passage A murine leukemia virus|Gross Virus|GLV
+NCIT_C14338:NCIT_C14338|Human Papillomavirus Type 16|hrHPV16|HPV-16|HPV16|High-Risk Subtype HPV16|Human Papillomavirus 16|High-Risk Human Papillomavirus Subtype HPV16|High-Risk Subtype HPV-16|Human Papillomavirus Genotype 16|High-Risk Human Papillomavirus 16|HPV Genotype 16|hrHPV-16|Human Papillomavirus-16|Human Papillomavirus16|High-Risk Human Papillomavirus Subtype 16|High-Risk Human Papillomavirus-16|High-Risk Human Papillomavirus16
+NCIT_C117712:NCIT_C117712|Bovine Lentivirus Group|Bovine Lentivirus Serogroup
+NCIT_C179585:NCIT_C179585|SARS Coronavirus 2 B.1.617.1|B.1.617.1 India December 2020|SARS Coronavirus 2 B.1.6171|B.1.617.1|B.1.6171|Kappa|SARS Coronavirus 2 Variant Lineage B.1.617.1|SARS Coronavirus 2 Variant Lineage B.1.6171|SARS-CoV-2 B.1.617.1|SARS-CoV-2 B.1.6171|SARS2 B.1.617.1|SARS2 B.1.6171
+NCIT_C113202:NCIT_C113202|Hepacivirus
+NCIT_C129405:NCIT_C129405|Tacaribe Complex Virus|New World Arenavirus Complex|TCRV|Tacaribe Serocomplex Virus|TACV Complex|Tacaribe Complex Arenavirus|Tacaribe Complex
+NCIT_C102995:NCIT_C102995|Human Papillomavirus-26|HPV-26|HPV26|Alphapapillomavirus 5|Human Papillomavirus Type 26|Human Papillomavirus26
+NCIT_C77198:NCIT_C77198|Rubella Virus|German Measles Virus|RUBELLA VIRUS|Rubivirus Rubella Virus
+NCIT_C103001:NCIT_C103001|Human Papillomavirus-52|HPV-52|HPV52|Human Papillomavirus52|Human Papillomavirus Type 52
+NCIT_C14368:NCIT_C14368|Lytic Virus
+NCIT_C14341:NCIT_C14341|Primate Retrovirus
+NCIT_C14306:NCIT_C14306|Arenavirus|ARENAVIRUS
+NCIT_C84344:NCIT_C84344|Xenotropic Murine Leukemia Virus-related Virus|XMRV
+NCIT_C44391:NCIT_C44391|HPV-High Risk|High-Risk Subtype (16, 18, 31, 33, 35, etc.)|High Risk HPV|hrHPV|Human Papillomaviruses, High Risk|HR-HPV
+NCIT_C14277:NCIT_C14277|Simian T-Lymphotropic Virus Type I|Simian T-Lymphotropic Virus I|STLV
+NCIT_C53454:NCIT_C53454|Influenza A Virus|INFLUENZA A VIRUS WHOLE|INFLUENZA A VIRUS|Influenza Type A|influenza A virus|Influenza Virus Type A|FLUAV
+NCIT_C121658:NCIT_C121658|H5N2 Avian Influenza Virus|H5N2 Influenza Virus|Highly Pathogenic Avian Influenza Virus|Highly Pathogenic H5N2 Avian Influenza Virus
+NCIT_C14318:NCIT_C14318|Ovine Jaagziekte Virus|Sheep Pulmonary Adenomatosis Virus|Jaagsiekte Sheep Retrovirus
+NCIT_C14254:NCIT_C14254|Human Parainfluenza Virus 1|HA2|HUMAN PARAINFLUENZA VIRUS 1|Human Respirovirus 1|HPIV-1|HPIV1|Human Parainfluenza Virus Type 1|Hemadsorption Type 2 Virus
+NCIT_C14295:NCIT_C14295|Hepatitis E Virus|HEV|hepatitis E virus|HEPATITIS E VIRUS
+NCIT_C14276:NCIT_C14276|Spleen Focus-Forming Virus|Friend Spleen Focus-Forming Virus
+NCIT_C112432:NCIT_C112432|SARS Coronavirus|Severe Acute Respiratory Syndrome Coronavirus|SARS-CoV|SEVERE ACUTE RESPIRATORY SYNDROME-RELATED CORONAVIRUS|SARS|HCoV-SARS|SARS-CoV-1|SARS-CoV1|SARS CORONAVIRUS
+NCIT_C179596:NCIT_C179596|SARS Coronavirus 2 B.1.617.3|SARS2 B.1.617.3|SARS2 B.1.6173|B.1.617.3|B.1.6173|SARS-CoV-2 B.1.617.3|SARS-CoV-2 B.1.6173|SARS Coronavirus 2 Variant Lineage B.1.617.3|SARS Coronavirus 2 Variant Lineage B.1.6173|SARS Coronavirus 2 B.1.6173|B.1.617.3 India October 2020
+NCIT_C179576:NCIT_C179576|SARS Coronavirus 2 B.1.427|SARS Coronavirus 2 Variant Lineage B.1.427|SARS Coronavirus 2 Variant Lineage B.1427|B.1.427 US California|B.1.427|B.1427|Epsilon|SARS2 B.1.427|SARS2 B.1427|SARS Coronavirus 2 B.1427|SARS-CoV-2 B.1.427|SARS-CoV-2 B.1427
+NCIT_C14229:NCIT_C14229|JC Virus|polyomavirus JC|John Cunningham Virus|Human polyomavirus (type JC)|JC Polyomavirus|JCV|Polyomavirus hominis 2|JC VIRUS
+NCIT_C180325:NCIT_C180325|SARS Coronavirus 2 P.3|SARS2 P.3|SARS2 P3|SARS-CoV-2 P.3|SARS-CoV-2 P3|SARS Coronavirus 2 P3|P.3|SARS Coronavirus 2 Variant Lineage P.3|SARS Coronavirus 2 Variant Lineage P3|Theta
+NCIT_C113204:NCIT_C113204|Pegivirus
+NCIT_C14235:NCIT_C14235|Mouse Mammary Tumor Virus|MMTV
+NCIT_C112398:NCIT_C112398|Pneumovirus|PNEUMOVIRUS
+NCIT_C14371:NCIT_C14371|Oncornavirus|RNA Tumor Virus
+NCIT_C112419:NCIT_C112419|Herpes Simplex Virus|herpes simplex virus|SIMPLEXVIRUS|HSV|Simplexvirus|human herpesvirus|Human Herpes Simplex Virus|HHV
+NCIT_C14288:NCIT_C14288|Feline Immunodeficiency Virus|FIV
+NCIT_C14251:NCIT_C14251|Papillomavirus|Papilloma Virus|Virus-Papilloma
+NCIT_C112317:NCIT_C112317|Human Parainfluenza Virus 3|HUMAN PARAINFLUENZA VIRUS 3|HPIV-3|HPIV3|Human Parainfluenza Virus Type 3|Human Respirovirus 3
+NCIT_C14344:NCIT_C14344|Sloan Kettering Virus|Avian erythroblastosis virus (strain Sloan-Kettering)|SKVS
+NCIT_C14311:NCIT_C14311|Human Herpesvirus 1|HUMAN HERPESVIRUS 1|HHV1|HSV1|Herpes Simplex Virus Type 1|Herpes Simplex Virus 1|HSV-1|HHV-1
+NCIT_C127691:NCIT_C127691|Bocaparvovirus|Bocavirus|BOCAPARVOVIRUS
+NCIT_C14196:NCIT_C14196|Cytomegalovirus|CMV, CYTOMEGALOVIRUS|CMV|HUMAN HERPESVIRUS 5|Cytomegalovirus (CMV) Infection|cytomegalovirus|CYTOMEGALOVIRUS
+NCIT_C103002:NCIT_C103002|Human Papillomavirus-53|HPV-53|HPV53|Alphapapillomavirus 6|Human Papillomavirus53|Human Papillomavirus Type 53
+NCIT_C14267:NCIT_C14267|Human Respiratory Syncytial Virus|respiratory syncytial virus|HUMAN RESPIRATORY SYNCYTIAL VIRUS|Respiratory Syncytial Virus|RSV|hRSV|Human RSV
+NCIT_C14300:NCIT_C14300|Rous Sarcoma Virus|RSV
+NCIT_C14332:NCIT_C14332|Avian Leukemia Sarcoma Virus|ALSV-A
+NCIT_C112365:NCIT_C112365|Orbivirus|ORBIVIRUS
+NCIT_C112036:NCIT_C112036|Dengue Virus|DENGUE VIRUS
+NCIT_C112230:NCIT_C112230|Arbovirus|ARBOVIRUS|Arthropod-borne Virus
+NCIT_C112242:NCIT_C112242|Coxsackie A Virus|Coxsackie Virus A|Human Coxsackievirus A|Human Enterovirus A|Enterovirus A|Coxsackievirus A|Enterovirus EV-A|COXSACKIE A VIRUS
+NCIT_C112401:NCIT_C112401|Pseudocowpox Virus|PSEUDOCOWPOX VIRUS|Paravaccinia virus|Pseudocowpoxvirus
+NCIT_C14188:NCIT_C14188|Bacteriophage|Phage|Viruses, Bacterial
+NCIT_C103005:NCIT_C103005|Human Papillomavirus-59|Human Papillomavirus59|Human Papillomavirus Type 59|HPV59|HPV-59
+NCIT_C184364:NCIT_C184364|SARS-CoV-2 Variant Being Monitored|Variants Under Monitoring|VBM|VUM|Variant Being Monitored|Variants Being Monitored
+NCIT_C14268:NCIT_C14268|Retroviridae|retrovirus|Retrovirus|Virus-Retrovirus|Retroviruses
+NCIT_C14242:NCIT_C14242|Moloney Sarcoma Virus|Moloney Murine Sarcoma Virus|MMSV|MoMuSV|MoMSV
+NCIT_C103003:NCIT_C103003|Human Papillomavirus-56|HPV56|HPV-56|Human Papillomavirus56|Human Papillomavirus Type 56
+NCIT_C14259:NCIT_C14259|Poliovirus|POLIOVIRUS|Polio Virus|Human enterovirus C|Enterovirus C|ENC
+NCIT_C184366:NCIT_C184366|SARS-CoV-2 Variant of Concern|VOC|Variant of Concern|Variants of Concern
+NCIT_C14309:NCIT_C14309|Morbillivirus|MORBILLIVIRUS
+NCIT_C156054:NCIT_C156054|Human Papillomavirus-63|HPV-63|HPV63|Human Papilloma Virus-63|Human Papilloma Virus63|Human Papillomavirus 63|Human Papilloma Virus 63|Human Papillomavirus63
+NCIT_C14274:NCIT_C14274|Simian Immunodeficiency Virus|SIV
+NCIT_C14186:NCIT_C14186|Alpharetrovirus|Avian Retrovirus|Retroviruses, Type C, Avian|Type C Avian Retrovirus
+NCIT_C29889:NCIT_C29889|Regressing Friend Leukemia Virus|Regressing FV|CFV|Friend Leukemia Virus, Regressing
+NCIT_C14204:NCIT_C14204|Epstein-Barr Virus|EBV|HUMAN HERPESVIRUS 4|Epstein Barr Virus|Epstein-Barr virus|HHV-4|HHV4|Lymphocryptovirus|Virus-Epstein-Barr|Human Herpesvirus 4
+NCIT_C112028:NCIT_C112028|Bunyaviridae
+NCIT_C179583:NCIT_C179583|SARS Coronavirus 2 B.1.617|SARS Coronavirus 2 Variant Lineage B.1.617|SARS Coronavirus 2 Variant Lineage B.1617|B.1.617 India February 2021|SARS Coronavirus 2 B.1617|SARS-CoV-2 B.1.617|SARS-CoV-2 B.1617|SARS2 B.1.617|SARS2 B.1617|B.1.617|B.1617
+NCIT_C71877:NCIT_C71877|West Nile Virus|WEST NILE VIRUS|WNV
+NCIT_C123490:NCIT_C123490|Influenza A (H5N1) Virus|INFLUENZA A VIRUS SUBTYPE H5N1|HPAI H5N1 Virus|Influenza A Virus H5N1 Subtype|Highly Pathogenic Asian Avian Influenza A (H5N1) Virus
+NCIT_C180913:NCIT_C180913|SARS Coronavirus 2 B.1.621|SARS Coronavirus 2 Variant Lineage B.1.621|SARS Coronavirus 2 Variant Lineage B.1621|SARS2 B.1.621|SARS2 B.1621|SARS Coronavirus 2 B.1621|B.1.621|B.1621|SARS-CoV-2 B.1.621|SARS-CoV-2 B.1621
+NCIT_C179600:NCIT_C179600|SARS Coronavirus 2 B.1.128|SARS2 B.1.128|SARS2 B.1128|SARS Coronavirus 2 Variant Lineage B.1.128|SARS Coronavirus 2 Variant Lineage B.1128|SARS Coronavirus 2 B.1128|B.1.1.28|B.1.128|B.1.128 Brazil|SARS-CoV-2 B.1.128|SARS-CoV-2 B.1128|B.1128
+NCIT_C14254:NCIT_C14254|Human Parainfluenza Virus 1|HA2|HUMAN PARAINFLUENZA VIRUS 1|Human Respirovirus 1|HPIV-1|HPIV1|Human Parainfluenza Virus Type 1|Hemadsorption Type 2 Virus
+NCIT_C119319:NCIT_C119319|Alphacoronavirus|ALPHACORONAVIRUS|Coronavirus Group 1
+NCIT_C14181:NCIT_C14181|Animal Virus|Viruses, Animal
 NCIT_C14308:NCIT_C14308|Pneumovirinae
-NCIT_C14344:NCIT_C14344|Sloan Kettering Virus|SKVS|Avian erythroblastosis virus (strain Sloan-Kettering)
+NCIT_C112316:NCIT_C112316|Human Parainfluenza Virus 2|HPIV-2|HPIV2|Human orthorubulavirus 2|Human Rubulavirus 2|Human Parainfluenza Virus Type 2|HUMAN PARAINFLUENZA VIRUS 2
+NCIT_C102999:NCIT_C102999|Human Papillomavirus-45|Human Papillomavirus45|Human Papillomavirus Type 45|HPV45|HPV-45
+NCIT_C14342:NCIT_C14342|PVC-211 MuLV|Friend murine leukemia virus (ISOLATE PVC-211)
+NCIT_C178021:NCIT_C178021|Human Coronavirus NL63|HUMAN CORONAVIRUS NL63|HCoV-NL63|Coronavirus NL63
+NCIT_C121657:NCIT_C121657|Porcine Epidemic Diarrhea Virus|PEDV
+NCIT_C53453:NCIT_C53453|Orthomyxoviridae
+NCIT_C71091:NCIT_C71091|Varicella Zoster Virus|VZV|HHV3|Varicella-Zoster Virus 1|HUMAN HERPESVIRUS 3|HHV-3|Herpes Zoster Virus|Human Herpesvirus 3
+NCIT_C112314:NCIT_C112314|Human Herpesvirus 5|Human Cytomegalovirus|HHV-5|HHV5|HCMV|HUMAN HERPESVIRUS 5
+NCIT_C14317:NCIT_C14317|Human Virus|Viruses, Human
+NCIT_C117722:NCIT_C117722|Avulavirus|Avian Rubulavirus
+NCIT_C125641:NCIT_C125641|Human Parainfluenza Virus|HUMAN PARAINFLUENZA VIRUS|HPIV
+NCIT_C77197:NCIT_C77197|Togaviridae
+NCIT_C53496:NCIT_C53496|Avian Influenza A Virus|Avian Influenza Virus|Bird Flu Virus
+NCIT_C14305:NCIT_C14305|Gammaretrovirus|Type C Mammalian Retrovirus|Retroviruses, Type C, Mammalian
+NCIT_C140177:NCIT_C140177|Subviral Satellite|Satellite
+NCIT_C179582:NCIT_C179582|SARS Coronavirus 2 B.1.526.1|SARS-CoV-2 B.1.526.1|SARS-CoV-2 B.1.5261|B.1.526.1|B.1.5261|SARS Coronavirus 2 B.1.5261|SARS2 B.1.526.1|SARS2 B.1.5261|B.1.526.1 US New York October 2020|SARS Coronavirus 2 Variant Lineage B.1.526.1|SARS Coronavirus 2 Variant Lineage B.1.5261
+NCIT_C112317:NCIT_C112317|Human Parainfluenza Virus 3|HUMAN PARAINFLUENZA VIRUS 3|HPIV-3|HPIV3|Human Parainfluenza Virus Type 3|Human Respirovirus 3
+NCIT_C124253:NCIT_C124253|Woodchuck Hepatitis Virus|WHV
+NCIT_C117716:NCIT_C117716|Primate Lentivirus Group|Primate Lentivirus Serogroup
+NCIT_C14377:NCIT_C14377|Human Papillomavirus Type 18|HPV Genotype 18|Human Papillomavirus-18|Human Papillomavirus18|HPV-18|HPV18|Human Papillomavirus Genotype 18
+NCIT_C14310:NCIT_C14310|Paramyxovirus|paramyxovirus|RESPIROVIRUS
+NCIT_C14312:NCIT_C14312|Hepatitis C Virus|HCV|Virus-Hepatitis C|HEPATITIS C VIRUS|Hepatitis C
+NCIT_C14236:NCIT_C14236|Mason-Pfizer Monkey Virus|MPMV
+NCIT_C112422:NCIT_C112422|Tick-Borne Encephalitis Virus|TICK-BORNE ENCEPHALITIS VIRUS|FSME virus|TBEV
+NCIT_C117713:NCIT_C117713|Equine Lentivirus Group|Equine Lentivirus Serogroup
+NCIT_C14347:NCIT_C14347|Deltaretrovirus|BLV-HTLV Retrovirus|DELTARETROVIRUS
+NCIT_C14244:NCIT_C14244|Mouse Leukemia Virus|Murine Leukemia Virus MLV|Murine Leukemia Virus MuLV|MuLV|MURINE LEUKEMIA VIRUS|Murine Leukemia Virus
+NCIT_C103001:NCIT_C103001|Human Papillomavirus-52|HPV-52|HPV52|Human Papillomavirus52|Human Papillomavirus Type 52
+NCIT_C14221:NCIT_C14221|Human Immunodeficiency Virus 2|HIV-2|HIV2|Human Immunodeficiency Virus, Type 2|LAV-2|LAV2|HUMAN IMMUNODEFICIENCY VIRUS 2
+NCIT_C112363:NCIT_C112363|Norwalk Virus|Norwalk calicivirus|NORWALK VIRUS
+NCIT_C113201:NCIT_C113201|Flaviviridae
+NCIT_C90038:NCIT_C90038|Saimiriine Herpesvirus 2|Herpesvirus saimiri 2|Saimirine herpesvirus 2|Squirrel Monkey Herpesvirus
+NCIT_C14274:NCIT_C14274|Simian Immunodeficiency Virus|SIV
+NCIT_C113205:NCIT_C113205|Coronaviridae|CORONAVIRIDAE
+NCIT_C186198:NCIT_C186198|Parechovirus|PARECHOVIRUS
+NCIT_C14214:NCIT_C14214|Hepadnavirus
+NCIT_C14220:NCIT_C14220|Human Immunodeficiency Virus 1|Human Immunodeficiency Virus, Type 1|HIV-1|HIV1|LAV-1|LAV1|HUMAN IMMUNODEFICIENCY VIRUS 1
+NCIT_C14203:NCIT_C14203|Enterovirus|ENTEROVIRUS
+NCIT_C112031:NCIT_C112031|Filoviridae|Filovirus|FILOVIRIDAE
+NCIT_C14256:NCIT_C14256|Picornavirus|Picornaviridae
+NCIT_C14216:NCIT_C14216|Hepatitis Virus
+NCIT_C80445:NCIT_C80445|Influenza A (H1N1) Virus|Swine-origin influenza A (H1N1) virus|Influenza A Virus H1N1 Subtype|INFLUENZA A VIRUS SUBTYPE H1N1|Swine Influenza A (H1N1) Virus
+NCIT_C61156:NCIT_C61156|Baculoviridae|Baculoviral|Baculovirus
+NCIT_C14295:NCIT_C14295|Hepatitis E Virus|HEV|hepatitis E virus|HEPATITIS E VIRUS
+NCIT_C180778:NCIT_C180778|SARS Coronavirus 2 C.37|SARS-CoV-2 C.37|SARS-CoV-2 C37|SARS Coronavirus 2 Variant Lineage C.37|SARS Coronavirus 2 Variant Lineage C37|Lambda|C.37|C37|SARS Coronavirus 2 C37|SARS2 C.37|SARS2 C37
+NCIT_C112362:NCIT_C112362|Norovirus|Norwalk-like virus|NoV|NOROVIRUS
+NCIT_C14276:NCIT_C14276|Spleen Focus-Forming Virus|Friend Spleen Focus-Forming Virus
+NCIT_C14334:NCIT_C14334|Endogenous Retrovirus|ERV|ENDOGENOUS RETROVIRUS
+NCIT_C14253:NCIT_C14253|Papovavirus|Virus-Papova
+NCIT_C102999:NCIT_C102999|Human Papillomavirus-45|Human Papillomavirus45|Human Papillomavirus Type 45|HPV45|HPV-45
+NCIT_C14290:NCIT_C14290|Lentivirus|LENTIVIRUS|Virus-Lenti|Lentivirinae
+NCIT_C112331:NCIT_C112331|Marburgvirus|MARBURGVIRUS
+NCIT_C128553:NCIT_C128553|Zika Virus|ZIKV|ZIKA VIRUS
+NCIT_C14219:NCIT_C14219|Human Immunodeficiency Virus|Virus-HIV|human immunodeficiency virus|HIV
+NCIT_C29916:NCIT_C29916|Graffi Murine Leukemia Virus|Graffi MuLV
+NCIT_C117714:NCIT_C117714|Feline Lentivirus Group|Feline Lentivirus Serogroup
+NCIT_C112411:NCIT_C112411|Ross River Virus|RRV|ROSS RIVER VIRUS
+NCIT_C103000:NCIT_C103000|Human Papillomavirus-51|Human Papillomavirus Type 51|HPV51|HPV-51|Human Papillomavirus51
+NCIT_C112318:NCIT_C112318|Human Parainfluenza Virus 4|Human Parainfluenza Virus Type 4|Human Rubulavirus 4|HPIV Type 4|HPIV-4|HPIV4|Human orthorubulavirus 4|HUMAN PARAINFLUENZA VIRUS 4
+NCIT_C112232:NCIT_C112232|Barmah Forest Virus|BARMAH FOREST VIRUS
+NCIT_C128305:NCIT_C128305|HERV-K|HERVK|Endogenous Retrovirus Group K|Endogenous Retroviral Sequence K|Human Endogenous Retroviral Sequence K|HERV-K Provirus|Human Endogenous Retrovirus Group K
+NCIT_C14293:NCIT_C14293|Spumavirus|Foamy Virus|Foamy Retrovirus
+NCIT_C14190:NCIT_C14190|Bovine Papillomavirus|BPV
+NCIT_C77200:NCIT_C77200|Rhinovirus
+NCIT_C112414:NCIT_C112414|Rubivirus|RUBIVIRUS
+NCIT_C112316:NCIT_C112316|Human Parainfluenza Virus 2|HPIV-2|HPIV2|Human orthorubulavirus 2|Human Rubulavirus 2|Human Parainfluenza Virus Type 2|HUMAN PARAINFLUENZA VIRUS 2
+NCIT_C179579:NCIT_C179579|SARS Coronavirus 2 B.1.525|SARS-CoV-2 B.1.525|SARS-CoV-2 B.1525|B.1.525|B.1525|SARS Coronavirus 2 Variant Lineage B.1.525|SARS Coronavirus 2 Variant Lineage B.1525|Eta|SARS2 B.1.525|SARS2 B.1525|B.1.525 UK/Nigeria December 2020|SARS Coronavirus 2 B.1525
+NCIT_C14219:NCIT_C14219|Human Immunodeficiency Virus|Virus-HIV|human immunodeficiency virus|HIV
+NCIT_C14315:NCIT_C14315|Canarypox Virus|Canarypox
+NCIT_C185727:NCIT_C185727|SARS Coronavirus 2 BA.2|BA.2|BA2|SARS2 BA.2|SARS2 BA2|SARS-CoV-2 BA.2|SARS-CoV-2 BA2|B.1.1.529.2|B.1.1.5292|SARS Coronavirus 2 Variant Lineage BA.2|SARS Coronavirus 2 Variant Lineage BA2|SARS Coronavirus 2 BA2|Omicron
+NCIT_C14224:NCIT_C14224|HTLV-2|HTLV2|Human T-Lymphotropic Virus, Type II|Human T-Lymphotropic Virus 2|HUMAN T-LYMPHOTROPIC VIRUS 2|HTLV-II|Virus-HTLV-II
+NCIT_C14247:NCIT_C14247|Avian Myeloblastosis Virus
+NCIT_C14215:NCIT_C14215|Hepatitis B Virus|HEPATITIS B VIRUS|HBV|hepatitis B virus|Virus-Hepatitis B
+NCIT_C14291:NCIT_C14291|Betaretrovirus|Retroviruses, Type B, Mammalian|Type B Virus|Type B Mammalian Retrovirus|Type D Retrovirus
+NCIT_C112407:NCIT_C112407|Rhinovirus A|RHINOVIRUS A|Human Rhinovirus A
+NCIT_C14337:NCIT_C14337|Bovine Papillomavirus-1|Bovine Papillomavirus1|BPV-1|BPV1
+NCIT_C125639:NCIT_C125639|Enterovirus D68|Enterovirus D68 (EV-D68)|Human Enterovirus D68|Human Enterovirus 68|Human Enterovirus EV68|Enterovirus 68|EV-D68
+NCIT_C112027:NCIT_C112027|Rhabdoviridae
+NCIT_C29901:NCIT_C29901|Moloney Murine Leukemia Virus TB|Moloney Murine Leukemia Virus, TB Strain|MoMuLV-TB
+NCIT_C125640:NCIT_C125640|Human Metapneumovirus|HMPV|HUMAN METAPNEUMOVIRUS
+NCIT_C125638:NCIT_C125638|Chikungunya Virus|CHIKUNGUNYA VIRUS
+NCIT_C156055:NCIT_C156055|Human Papillomavirus-70|Human Papilloma Virus-70|Human Papilloma Virus70|Human Papillomavirus70|HPV-70|HPV70|Human Papilloma Virus 70|Human Papillomavirus 70
+NCIT_C14312:NCIT_C14312|Hepatitis C Virus|HCV|Virus-Hepatitis C|HEPATITIS C VIRUS|Hepatitis C
+NCIT_C112267:NCIT_C112267|Dengue Virus 2|DENGUE VIRUS 2|Dengue Virus Type 2|DENV-2|DENV2|DEN-2|DEN2
+NCIT_C112269:NCIT_C112269|Dengue Virus 4|DENV-4|DENV4|DEN-4|DEN4|DENGUE VIRUS 4|Dengue Virus Type 4
+NCIT_C184327:NCIT_C184327|SARS Coronavirus 2 B.1.1.529|SARS-CoV-2 B.1.1.529|SARS-CoV-2 B.1.1529|SARS Coronavirus 2 B.1.1529|B.1.1.529|B.1.1529|SARS Coronavirus 2 Variant Lineage B.1.1.529|SARS Coronavirus 2 Variant Lineage B.1.1529|SARS2 B.1.1.529|SARS2 B.1.1529|Omicron
+NCIT_C184687:NCIT_C184687|Norovirus Genogroup II|Norovirus GII|NOROVIRUS GENOGROUP II
+NCIT_C14205:NCIT_C14205|Equine Infectious Anemia Virus|EIAV
+NCIT_C14242:NCIT_C14242|Moloney Sarcoma Virus|Moloney Murine Sarcoma Virus|MMSV|MoMuSV|MoMSV
+NCIT_C103003:NCIT_C103003|Human Papillomavirus-56|HPV56|HPV-56|Human Papillomavirus56|Human Papillomavirus Type 56
+NCIT_C14255:NCIT_C14255|Paramyxoviridae
+NCIT_C14208:NCIT_C14208|Flavivirus|FLAVIVIRUS|Arboviruses Group B
+NCIT_C53469:NCIT_C53469|Influenzavirus
+NCIT_C181465:NCIT_C181465|Human Poliovirus Type 1|NC Type 1|HUMAN POLIOVIRUS 1|Human poliovirus type 1
+NCIT_C14328:NCIT_C14328|GB virus C|GBV-C|hepatitis G virus|GBV-C/G|Hepatitis G Virus|Hepatitis GB virus C|HEPATITIS G VIRUS|Hepatitis GB virus C/G|GB Virus C/ Hepatitis G Virus|GB virus C/HGV|GBV-HGV|HGV|HGV-1|HGV1
+NCIT_C179599:NCIT_C179599|SARS Coronavirus 2 P.1|SARS-CoV-2 P.1|SARS-CoV-2 P1|P.1 Japan/Brazil|P.1|B.1.128.1|B.1.1281|SARS Coronavirus 2 P1|SARS Coronavirus 2 Variant Lineage P.1|SARS Coronavirus 2 Variant Lineage P1|SARS-CoV-2 B.1.128.1|SARS-CoV-2 B.1.1281|Gamma|B.1.1.28.1|B.1.1.281|SARS2 P.1|SARS2 P1
