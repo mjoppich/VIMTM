@@ -12,15 +12,17 @@ from natsort import natsorted
 from collections import OrderedDict
 
 import os, sys
-sys.path.insert(0, str(os.path.dirname(os.path.realpath(__file__))) + "/../miRExplore/python/")
+sys.path.insert(0, str(os.path.dirname(os.path.realpath(__file__))) + "/../../miRExplore/python/")
 
-from synonymes.GeneOntology import GeneOntology, GOTerm, GORelation, GORelationType
+sys.path.insert(0, str(os.path.dirname(os.path.realpath(__file__))) + "/../../miRExplore/python/")
+
+from GeneOntology import GeneOntology, GOTerm, GORelation, GORelationType
 
 import tempfile
 import os
 import copy
 
-
+from upsetplot import from_memberships, UpSet
 
 
 
@@ -105,6 +107,353 @@ class DocumentMirnaSequence:
                         result[species][hitTaxID].add( dvirus )
 
         return result
+
+
+class DocumentMirnaSequenceSet:
+
+    def __init__(self, it):
+
+        assert(hasattr(it, '__iter__'))
+        for x in it:
+            pass
+            #print(x, type(x))
+            #assert(isinstance(x, DocumentMirnaSequence))
+
+        self.blast_human = None
+        self.blast_virus = None
+
+        self.seqid2seq = {}
+        self.elements = set()
+        for x in set([x for x in it]):
+            self.add(copy.deepcopy(x))
+
+        
+
+    def add(self, x):
+        #assert(isinstance(x, DocumentMirnaSequence))
+
+        while x.mirna_id in self.seqid2seq:
+            #print("Existing entry")
+            #print(self.seqid2seq[x.mirna_id])
+            #print("New entry")
+            #print(x)
+            #raise ValueError("")
+            x.mirna_id = "{}__1".format(x.mirna_id)
+
+        self.seqid2seq[x.mirna_id] = x
+        self.elements.add(x)
+
+    
+    def to_fasta(self, file=None):
+
+        fastaString = "\n".join([x.to_fasta() for x in self.elements])
+        if file != None:
+            if type(file) == str:
+                fout = open(file, "w")
+            else:
+                fout = file
+
+            print(fastaString, file=fout)
+            return
+                
+        return fastaString
+
+    def run_blast(self, humanDB="../blastdb/human_genome/GCF_000001405.39_top_level", virusDB="../blastdb/ref_viruses_rep_genomes/ref_viruses_rep_genomes", blastpath="/mnt/raidtmp/joppich/pubmed_pmc/pmc/ncbi-blast-2.13.0+-src/c++/ReleaseMT/bin/blastn", humanXML=tempfile.NamedTemporaryFile("w"), virusXML=tempfile.NamedTemporaryFile("w"), try_to_load=False):
+
+        if try_to_load and os.path.exists(humanXML) and os.path.exists(virusXML):
+            humanDF=pd.read_csv(humanXML, sep="\t", comment="#", header=None)
+            humanDF.columns = ['query acc.ver',  'subject acc.ver',  '% identity',  'alignment length',  'mismatches',  'gap opens',  'q. start',  'q. end',  's. start',  's. end',   'evalue', 'bit score', 'stitle', 'staxids']
+            self.blast_human = humanDF
+
+            virusDF=pd.read_csv(virusXML, sep="\t", comment="#", header=None)
+            virusDF.columns = ['query acc.ver',  'subject acc.ver',  '% identity',  'alignment length',  'mismatches',  'gap opens',  'q. start',  'q. end',  's. start',  's. end',   'evalue', 'bit score', 'stitle', 'staxids']
+            self.blast_virus = virusDF
+        
+        else:
+
+            if type(humanXML) == str:
+                humanXML = open(humanXML, "w")
+
+            if type(virusXML) == str:
+                virusXML = open(virusXML, "w")
+
+            with tempfile.NamedTemporaryFile("w") as seqFile:
+                self.to_fasta(file=seqFile)
+                #-outfmt "6 qseqid sseqid evalue pident stitle staxids sscinames scomnames sblastnames sskingdoms salltitles stitle"
+                virusBlast = "{blast} -db {dbpath} -query {queryfile}  -outfmt '7 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore stitle staxids' -gapopen 5 -gapextend 2 -word_size 7 -reward 1 -penalty -3 -evalue 1000 -num_alignments 10 > {outfile}".format(blast=blastpath, dbpath=virusDB, queryfile=seqFile.name, outfile=virusXML.name)
+                print(virusBlast)
+                os.system(virusBlast)
+
+                humanBlast = "{blast} -db {dbpath} -query {queryfile}  -outfmt '7 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore stitle staxids' -gapopen 5 -gapextend 2 -word_size 7 -reward 1 -penalty -3 -evalue 1000 -num_alignments 10 > {outfile}".format(blast=blastpath, dbpath=humanDB, queryfile=seqFile.name, outfile=humanXML.name)
+                print(humanBlast)
+                os.system(humanBlast)
+
+                humanDF=pd.read_csv(humanXML.name, sep="\t", comment="#", header=None)
+                humanDF.columns = ['query acc.ver',  'subject acc.ver',  '% identity',  'alignment length',  'mismatches',  'gap opens',  'q. start',  'q. end',  's. start',  's. end',   'evalue', 'bit score', 'stitle', 'staxids']
+                self.blast_human = humanDF
+
+                virusDF=pd.read_csv(virusXML.name, sep="\t", comment="#", header=None)
+                virusDF.columns = ['query acc.ver',  'subject acc.ver',  '% identity',  'alignment length',  'mismatches',  'gap opens',  'q. start',  'q. end',  's. start',  's. end',   'evalue', 'bit score', 'stitle', 'staxids']
+                self.blast_virus = virusDF
+
+
+    def assign_blast_matches(self):
+
+        #self._assign_blast_matches(self.blast_human, "human", addall=False)
+        self._assign_blast_matches(self.blast_virus, "virus")
+
+    def _assign_blast_matches(self, indf, key, add_threshold = 0.01):
+        bestHits = {}
+        allHits = defaultdict(list)
+
+        for ri, row in indf.iterrows():
+
+            #print("\t".join([str(x) for x in row]))
+
+            mirID = row["query acc.ver"]
+            mirAlign = row["alignment length"]
+            mirMismatches = row["mismatches"]
+
+            if pd.isnull(row["staxids"]):
+                mirTaxID = "0"
+            else:
+                mirTaxID = str(int(row["staxids"]))
+
+
+            mirMatchID = row["subject acc.ver"].split(".")[0]
+            mirMatches = mirAlign-mirMismatches
+            mirMatchPositionSubject = row["s. start"]
+
+            if not mirID in self.seqid2seq:
+                print("Unknown sequence", mirID)
+                continue
+            
+            mirObj = self.seqid2seq[mirID]
+            mirData = {"matches": mirMatches,"mirna_len": len(mirObj.mirna_seq), "acc": (mirAlign-mirMismatches)/len(mirObj.mirna_seq), "matched_seq_id": mirMatchID, "matched_tax_id": mirTaxID, "matched_position_target": mirMatchPositionSubject}
+            allHits[mirID].append(copy.deepcopy(mirData))
+
+            #if mirID == "MR109":
+            #    print(mirData)
+            #    print(",".join([str(x) for x in row]))
+            #    print(bestHits.get(mirID, None))
+            
+            if mirID in bestHits:
+                if mirData["acc"] > bestHits[mirID]["acc"]:
+                    bestHits[mirID] = mirData
+                continue
+                
+            bestHits[mirID] = mirData
+
+        addCount = 0
+        for mirID in self.seqid2seq:
+            if mirID in bestHits:
+                idBestHit = bestHits[mirID]
+                
+                addCount+= 1
+                self.seqid2seq[mirID].bestmatches[key] = [x for x in allHits[mirID] if abs(x["acc"]-idBestHit["acc"]) < add_threshold]
+
+        print("mirnas added", addCount)
+
+    def get_mirna_by_origin(self):
+
+        byorigin = defaultdict(set)
+
+        for mirID in self.seqid2seq:
+
+            mirna = self.seqid2seq[mirID]
+            origin = "UNKNOWN"
+            for x in mirna.origin:
+                if x.startswith("PMC"):
+                    origin = x
+                    break
+
+            byorigin[origin].add(mirna)
+
+        return byorigin
+
+
+    def get_mirna_by_origin_taxid(self):
+
+        allmirnas = set()
+        tax2mirnas = defaultdict(set)
+        tax2mirnaseq = defaultdict(set)
+        origin2tax2mirna = defaultdict(lambda: defaultdict(set))
+        origin2tax2mirnaseq = defaultdict(lambda: defaultdict(set))
+
+        for x in mirnasByOrigin:
+
+            for mirna in mirnasByOrigin[x]:
+                
+                if "virus" in mirna.bestmatches:
+                    for hitIndex, hit in enumerate(mirna.bestmatches["virus"]):
+                            if len(mirna.bestmatches["virus"][hitIndex]["matched_doc_virus"]) > 0:
+
+                                allmirnas.add(mirna)
+
+                                for taxID in mirna.bestmatches["virus"][hitIndex]["matched_doc_virus"]:
+                                    tax2mirnas[taxID].add(mirna)
+                                    tax2mirnaseq[taxID].add(mirna.mirna_seq)
+
+                                    for docID in mirna.origin:
+                                        origin2tax2mirna[docID][taxID].add(mirna)
+                                        origin2tax2mirnaseq[docID][taxID].add(mirna.mirna_seq)
+
+        
+        return origin2tax2mirna, origin2tax2mirnaseq, tax2mirnas, tax2mirnaseq, allmirnas
+
+
+    def to_mirnas_table(self, allmirnas=None):
+
+        if allmirnas is None:
+            _,_,_,_, allmirnas = self.get_mirna_by_origin_taxid()
+
+        allEntries = []
+
+        for mir in allmirnas:
+
+            detailsList = []
+
+            for origin in mir.origin:
+                detailsList.append( mir.mirna_id )
+                detailsList.append( mir.mirna_seq )
+                detailsList.append( origin )
+                detailsList.append( mir.source )
+
+                virMatch = mir.bestmatches.get("virus", None)
+
+                if not virMatch is None:
+                    detailsList.append( [vm["matched_seq_id"] for vm in virMatch] )
+                    detailsList.append( [vm["matched_tax_id"] for vm in virMatch] )
+                    detailsList.append( [vm["matched_position_target"] for vm in virMatch] )
+                    detailsList.append( [",".join(vm["matched_doc_virus"]) for vm in virMatch] )
+                else:
+                    detailsList.append(None)
+                    detailsList.append(None)
+                    detailsList.append(None)
+                    detailsList.append(None)
+
+            allEntries.append(tuple(detailsList))
+
+        return pd.DataFrame.from_records(allEntries, columns=["ID", "SEQ", "ORIGIN", "METHOD", "MATCH_SEQUENCE", "MATCH_TAX", "MATCH_SEQUENCE_POSITION", "MATCH_DOCUMENT_TAX"])
+
+
+    
+
+
+class ViralAccessionDB:
+
+    def __init__(self, path="/mnt/raidtmp/joppich/pubmed_pmc/pmc/vimtm/data/viral_genomes_accessions.tsv", taxonomy_nodes="../nodes.dmp", taxonomy_merges="../merged.dmp", doc2tax="../doc2tax"):
+
+        self.db = {}
+        df = pd.read_csv(path, sep="\t", comment="#", header=None)
+        df.columns = ["Representative","Neighbor","Host","Selected lineage","Taxonomy name","Segment name"]
+
+        for ri, row in df.iterrows():
+            for rep in row["Representative"].split(","):
+                self.db[rep] = (row["Selected lineage"], row["Taxonomy name"])
+
+        self.taxOntology = GeneOntology()
+
+        with open(taxonomy_nodes) as fin:
+            allTerms = []
+            for line in fin:
+                line = line.strip().split("|")
+
+                taxid = line[0].strip()
+                parent_taxid = line[1].strip()
+
+                taxTerm = GOTerm()
+                taxTerm.id = taxid
+                taxTerm.name = taxid
+                isaRelation = GORelation(GORelationType['IS_A'], termid=parent_taxid)
+                taxTerm.is_a = [isaRelation]
+
+                allTerms.append(taxTerm)
+
+            self.taxOntology.addterms(allTerms)
+
+        with open(taxonomy_merges) as fin:
+            allTerms = []
+            for line in fin:
+                line = line.strip().split("|")
+
+                taxid = line[0].strip()
+                new_taxid = line[1].strip()
+
+                taxTerm = GOTerm()
+                taxTerm.id = taxid
+                taxTerm.name = taxid
+                isaRelation = GORelation(GORelationType['IS_A'], termid=new_taxid)
+                taxTerm.is_a = [isaRelation]
+
+                allTerms.append(taxTerm)
+
+            self.taxOntology.addterms(allTerms)
+
+
+        self.doc2tax = defaultdict(set)
+        with open(doc2tax) as fin:
+            for line in fin:
+                line = line.strip().split("\t")
+                self.doc2tax[line[0]].add(line[1])
+
+    def annotate_virus_seq_name(self, mbo):
+        for origin in mbo:
+            for x in mbo[origin]:
+                if "virus" in x.bestmatches:
+                    for ihit, hit in enumerate(x.bestmatches["virus"]):
+                        mirnaMatchID = x.bestmatches["virus"][ihit]["matched_seq_id"]
+                        x.bestmatches["virus"][ihit]["matched_seq_name"] = self.db.get(mirnaMatchID, None)
+
+
+    def annotate_matching_taxids(self, mbo):
+        informedUnknownTaxIDs = set()
+
+        for x in mbo:
+
+            for mirna in mbo[x]:
+                
+                #mirna.bestmatches["virus"]["matched_doc_virus"] = []
+
+                for hitIndex, mirnaHit in enumerate(mirna.bestmatches["virus"]):
+                    #print(hitIndex)
+                    mirna.bestmatches["virus"][hitIndex]["matched_doc_virus"] = []
+
+
+                    mirnaVirusTaxID = mirnaHit["matched_tax_id"]       
+                    bTaxTerm = self.taxOntology.getID(mirnaVirusTaxID)
+
+                    virusTaxIDs = set([bTaxTerm.id]) #set([str(x.termid) for x in bTaxTerm.getAllChildren(includeTerm=True)])
+                    docTaxIDs = self.doc2tax.get(x, [])
+                    
+                    docMatchesVirus = False
+                    docChildTaxIDs = []
+                    dTaxID = None
+
+                    for dTaxID in docTaxIDs:
+                        dTaxTerm = self.taxOntology.getID(dTaxID)
+
+                        if dTaxTerm is None:
+                            if not dTaxID in informedUnknownTaxIDs:
+                                print("Unknown TaxID from Document", dTaxID)
+                                informedUnknownTaxIDs.add(dTaxID)
+                            
+                            continue
+                        
+                        docChildTaxIDs = set([str(x.termid) for x in dTaxTerm.getAllChildren(includeTerm=True)])
+                        
+                        if len(virusTaxIDs.intersection(docChildTaxIDs)) > 0:
+                            docMatchesVirus = True
+                            break
+
+                    #print(x, mirna.mirna_seq, bestMatchID, dTaxID, mirnaVirusTaxID, docMatchesVirus)
+
+                    taxIntersection = virusTaxIDs.intersection(docChildTaxIDs)
+                    intersectionSize = len(taxIntersection)
+
+                    if len(mirna.bestmatches["virus"][hitIndex]["matched_doc_virus"]) == 0 and not dTaxID is None:
+                        mirna.bestmatches["virus"][hitIndex]["matched_doc_virus"] = taxIntersection #set([dTaxID]) #taxIntersection
+                    
 
 
 
@@ -624,7 +973,7 @@ def extract_mirnas_from_xml(infile):
 
     for x in pars:
 
-        if len(x.findall("//table")) > 0:
+        if len(x.findall(".//table")) > 0:
             continue
 
         parText = " ".join([y for y in x.itertext()])
@@ -845,3 +1194,36 @@ def process_files(infiles):
     return sdf, set(list(identified_mirnas))
     
 
+def mirnaseq2mirnas( allmirnas ):
+
+    seq2mirnas = defaultdict(set)
+
+    for x in allmirnas:
+        seq2mirnas[x.mirna_seq].add(x)
+
+    return seq2mirnas
+
+
+#
+##
+### Plots
+##
+#
+
+
+def mirnaUpsetPlot(seq2mirnas):
+    miRNA_memberships = defaultdict(set)
+    unique_sc2_seqs = defaultdict(set)
+
+    for x in seq2mirnas:
+        for y in seq2mirnas[x]:
+            if "MERS" in y.mirna_id:
+                continue
+
+            unique_sc2_seqs[y.mirna_seq].add(y)
+            for z in y.origin:
+                miRNA_memberships[x].add(z)
+
+    mirnaMems = from_memberships(miRNA_memberships.values())
+
+    UpSet(mirnaMems, subset_size='count', show_counts=True).plot()
